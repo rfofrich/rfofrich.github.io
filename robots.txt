@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://rfofrich.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://rfofrich.github.io/sitemap.xml
