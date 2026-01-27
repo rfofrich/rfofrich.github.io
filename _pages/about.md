@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: Postdoctoral Research Associate | Climate Impacts & Modeling Group
 
