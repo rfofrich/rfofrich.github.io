@@ -11,8 +11,7 @@ institution:
   name: Dartmouth College
   url: https://www.dartmouth.edu
   logo: /assets/img/D-Pine_RGB.png # path to the institution logo in the assets/img/ folder
-  dark_logo: /assets/img/D-Pine_Black.png # path to the institution dark logo in the assets/img/ folder
-  website: https://jsmankin.github.io
+
 social_links:
   linkedin: https://www.linkedin.com/in/robertfofrich/
   github: https://github.com/rfofrich
