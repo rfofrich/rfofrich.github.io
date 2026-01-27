@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2015-11-21 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[UC to keep postdoctoral hiring incentive program it previously said would be cut](https://dailybruin.com/2025/11/19/uc-to-keep-postdoctoral-hiring-incentive-program-it-previously-said-would-be-cut)
