@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # Change if your default branch is different
+      - main # Change if your default branch is different
 
 jobs:
   build-deploy:
@@ -17,7 +17,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2  # compatible with Jekyll 4.x
+          ruby-version: 3.2 # compatible with Jekyll 4.x
 
       # Step 3: Install dependencies
       - name: Install gems
