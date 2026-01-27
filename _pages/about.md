@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate | Climate Impacts & Modeling Group | Dartmouth College 
+subtitle: Postdoctoral Research Associate | Climate Impacts & Modeling Group | Dartmouth College
 
 profile:
   align: right
