@@ -10,7 +10,7 @@ bibliography: _bibliography/papers.bib
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
+[Download my BibTeX file]( /_bibliography/papers.bib )
 
 {% include bib_search.liquid %}
 
