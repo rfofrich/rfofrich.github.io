@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all blog posts
 ---
 
 I'm an Earth System Scientist and a Postdoctoral Research Associate in the Climate Modeling & Impacts Group at Dartmouth College. I am interested in mitigating the risks and drivers of climate change. Within this context, my work focuses on decarbonization, carbon removal, and the attribution of climate-related damages.
