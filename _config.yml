@@ -13,7 +13,7 @@ institution:
   logo: /assets/img/D-Pine_RGB.png # path to the institution logo in the assets/img/ folder
   dark_logo: /assets/img/D-Pine_Black.png # path to the institution dark logo in the assets/img/ folder
   website: https://jsmankin.github.io
-  
+
 social_links:
   linkedin: https://www.linkedin.com/in/robertfofrich/
   github: https://github.com/rfofrich
@@ -21,6 +21,7 @@ social_links:
   orcid: https://orcid.org/my-orcid?orcid=0000-0001-6418-3692
   researchgate: https://www.researchgate.net/profile/Robert-Fofrich-2
   bluesky: https://bsky.app/profile/robertfofrich.bsky.social
+  
 address: 33 Tuck Mall, Hanover, NH 03755, USA
 email: robertfofrich@dartmouth.edu
 
@@ -30,7 +31,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords:  Robert Fofrich, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Robert Fofrich, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
