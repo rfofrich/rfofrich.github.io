@@ -32,7 +32,6 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Robert Fofrich, academic-website, portfolio-website
-
 lang: en
 icon: /assets/img/D-Pine_RGB.png
 
@@ -180,8 +179,8 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Fofrich Navarro]
+  first_name: [Robert, A.]
   style: apa
   locale: en
   source: /_bibliography/
