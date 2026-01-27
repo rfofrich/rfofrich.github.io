@@ -21,16 +21,14 @@ institution:
   dark_logo: D-Pine_Black.png
   website: https://jsmankin.github.io
 
-social_links:
-  linkedin: https://www.linkedin.com/in/robertfofrich/
-  github: https://github.com/rfofrich
-  google_scholar: https://scholar.google.com/citations?user=5_uvPIIAAAAJ&hl=en
-  orcid: https://orcid.org/my-orcid?orcid=0000-0001-6418-3692
-  researchgate: https://www.researchgate.net/profile/Robert-Fofrich-2
-  bluesky: https://bsky.app/profile/robertfofrich.bsky.social
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+linkedin: https://www.linkedin.com/in/robertfofrich/
+github: https://github.com/rfofrich
+google_scholar: https://scholar.google.com/citations?user=5_uvPIIAAAAJ&hl=en
+orcid: https://orcid.org/my-orcid?orcid=0000-0001-6418-3692
+researchgate: https://www.researchgate.net/profile/Robert-Fofrich-2
+bluesky: https://bsky.app/profile/robertfofrich.bsky.social
 
 announcements:
   enabled: true # includes a list of news items
