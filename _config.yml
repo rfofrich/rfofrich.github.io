@@ -7,7 +7,8 @@ first_name: Robert
 middle_name: A.
 last_name: Fofrich Navarro
 position: Postdoctoral Research Associate
-institution: Dartmouth College
+institution: 
+  name: Dartmouth College
   url: https://www.dartmouth.edu
   logo: /assets/img/D-Pine_RGB.png # path to the institution logo in the assets/img/ folder
 address: 33 Tuck Mall, Hanover, NH 03755, USA
