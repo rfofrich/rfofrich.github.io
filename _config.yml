@@ -166,13 +166,22 @@ third_party_libraries:
   download: false
   bootstrap-table:
     version: "1.22.4"
+    url:
+      css: "https://cdn.jsdelivr.net/npm/bootstrap-table@1.22.4/dist/bootstrap-table.min.css"
+      js:  "https://cdn.jsdelivr.net/npm/bootstrap-table@1.22.4/dist/bootstrap-table.min.js"
   chartjs:
     version: "4.4.1"
+    url:
+      js: "https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"
   d3:
     version: "7.8.5"
+    url:
+      js: "https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"
   mathjax:
     version: "3.2.2"
-  # (other libraries can be copied from your full list)
+    url:
+      js: "https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"
+
 
 # -----------------------------------------------------------------------------
 # Scholar
