@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "A list of my publications, organized by categories in reverse chronological order, generated automatically with Jekyll Scholar.",
+          description: "A selected list of my publications in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
