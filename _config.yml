@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Robert Fofrich Navarro
+title: blank
 first_name: Robert
 middle_name: A.
 last_name: Fofrich Navarro
@@ -12,12 +12,13 @@ institution:
   url: https://www.dartmouth.edu
   logo: /assets/img/D-Pine_RGB.png
   dark_logo: /assets/img/D-Pine_Black.png
+  website: https://jsmankin.github.io
 
 social_links:
   linkedin: https://www.linkedin.com/in/robertfofrich/
   github: https://github.com/rfofrich
   google_scholar: https://scholar.google.com/citations?user=5_uvPIIAAAAJ&hl=en
-  orcid: https://orcid.org/0000-0001-6418-3692
+  orcid: https://orcid.org/my-orcid?orcid=0000-0001-6418-3692
   researchgate: https://www.researchgate.net/profile/Robert-Fofrich-2
   bluesky: https://bsky.app/profile/robertfofrich.bsky.social
 
@@ -30,16 +31,34 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-
 keywords: Robert Fofrich, academic-website, portfolio-website
+
 lang: en
 icon: /assets/img/D-Pine_RGB.png
 
 url: https://rfofrich.github.io
 baseurl: ""
+last_updated: false
+impressum_path:
+back_to_top: true
 
 # -----------------------------------------------------------------------------
-# Theme settings
+# Theme
+# -----------------------------------------------------------------------------
+
+repo_theme_light: default
+repo_theme_dark: dark
+repo_trophies:
+  enabled: true
+  theme_light: flat
+  theme_dark: gitdimmed
+
+external_services:
+  github_readme_stats_url: https://github-readme-stats.vercel.app
+  github_profile_trophy_url: https://github-profile-trophy.vercel.app
+
+# -----------------------------------------------------------------------------
+# Layout & Blog
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
@@ -48,12 +67,31 @@ search_enabled: true
 socials_in_search: true
 posts_in_search: true
 bib_search: true
+max_width: 930px
 
-enable_darkmode: true
-enable_masonry: true
-enable_project_categories: true
-enable_medium_zoom: true
-enable_math: true
+blog_name: al-folio
+blog_description: a simple whitespace theme for academics
+permalink: /blog/:year/:title/
+lsi: false
+
+pagination:
+  enabled: true
+
+related_blog_posts:
+  enabled: true
+  max_related: 5
+
+# -----------------------------------------------------------------------------
+# Analytics
+# -----------------------------------------------------------------------------
+
+google_analytics:
+cronitor_analytics:
+pirsch_analytics:
+openpanel_analytics:
+
+google_site_verification:
+bing_site_verification:
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -63,6 +101,8 @@ collections:
   books:
     output: true
   news:
+    defaults:
+      layout: post
     output: true
   projects:
     output: true
@@ -70,35 +110,88 @@ collections:
     output: true
 
 # -----------------------------------------------------------------------------
-# Jekyll Scholar
+# Jekyll settings
 # -----------------------------------------------------------------------------
 
-scholar:
-  source: /_bibliography/
-  bibliography: papers.bib
-  style: apa
-  locale: en
-  bibtex_filters: [latex, smallcaps, superscript]
-  details_dir: bibliography
-  details_link: Details
-  query: "@*"
-  group_by: year
-  group_order: descending
-
-enable_publication_badges:
-  altmetric: true
-  dimensions: true
-  google_scholar: true
-
-# -----------------------------------------------------------------------------
-# Include & exclude
-# -----------------------------------------------------------------------------
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: "highlight"
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
 
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
   - vendor
   - README.md
 keep_files:
   - CNAME
   - .nojekyll
+
+plugins:
+  - jekyll-3rd-party-libraries
+  - jekyll-archives-v2
+  - jekyll-cache-bust
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-get-json
+  - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-paginate-v2
+  - jekyll-regex-replace
+  - jekyll-scholar
+  - jekyll-sitemap
+  - jekyll-socials
+  - jekyll-tabs
+  - jekyll-terser
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jemoji
+
+# -----------------------------------------------------------------------------
+# Third-party libraries (must match plugin jekyll-3rd-party-libraries)
+# -----------------------------------------------------------------------------
+
+third_party_libraries:
+  download: false
+  bootstrap-table:
+    version: "1.22.4"
+  chartjs:
+    version: "4.4.1"
+  d3:
+    version: "7.8.5"
+  mathjax:
+    version: "3.2.2"
+  # (other libraries can be copied from your full list)
+
+# -----------------------------------------------------------------------------
+# Scholar
+# -----------------------------------------------------------------------------
+
+scholar:
+  last_name: [Einstein]
+  first_name: [Albert, A.]
+  style: apa
+  locale: en
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+  bibtex_filters: [latex, smallcaps, superscript]
+  replace_strings: true
+  join_strings: true
+  details_dir: bibliography
+  details_link: Details
+  query: "@*"
+  group_by: year
+  group_order: descending
