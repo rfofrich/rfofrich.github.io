@@ -14,6 +14,21 @@ profile:
     <p>Hanover, NH 03755, USA</p>
     <p>robertfofrich@dartmouth.edu</p>
 
+institution:
+  name: Dartmouth College
+  url: https://www.dartmouth.edu
+  logo: D-Pine_RGB.png
+  dark_logo: D-Pine_Black.png
+  website: https://jsmankin.github.io
+
+social_links:
+  linkedin: https://www.linkedin.com/in/robertfofrich/
+  github: https://github.com/rfofrich
+  google_scholar: https://scholar.google.com/citations?user=5_uvPIIAAAAJ&hl=en
+  orcid: https://orcid.org/my-orcid?orcid=0000-0001-6418-3692
+  researchgate: https://www.researchgate.net/profile/Robert-Fofrich-2
+  bluesky: https://bsky.app/profile/robertfofrich.bsky.social
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -23,8 +38,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: False
+  scrollable: False # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all blog posts
 ---
 
