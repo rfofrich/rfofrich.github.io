@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A list of my publications, organized by categories in reverse chronological order, generated automatically with Jekyll Scholar.
+description: A selected list of my publications in reverse chronological order.
 nav: true
 nav_order: 2
 bibliography: _bibliography/papers.bib
