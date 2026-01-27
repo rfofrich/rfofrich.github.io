@@ -10,8 +10,8 @@ position: Postdoctoral Research Associate
 institution:
   name: Dartmouth College
   url: https://www.dartmouth.edu
-  logo: /assets/img/D-Pine_RGB.png
-  dark_logo: /assets/img/D-Pine_Black.png
+  logo: assets/img/D-Pine_RGB.png
+  dark_logo: /ssets/img/D-Pine_Black.png
   website: https://jsmankin.github.io
 
 social_links:
@@ -33,7 +33,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Robert Fofrich, academic-website, portfolio-website
 lang: en
-icon: /assets/img/D-Pine_RGB.png
+icon: assets/img/D-Pine_RGB.png
 
 url: https://rfofrich.github.io
 baseurl: ""
