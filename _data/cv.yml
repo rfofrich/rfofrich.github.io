@@ -194,27 +194,21 @@ cv:
 
     Skills:
       - name: Research
-        level: Expert
         keywords: "Expertise in climate change mitigation pathways, carbon accounting, decarbonization strategies, carbon offset programs, and measuring emissions from energy and agriculture infrastructure. Experience with remote sensing and in situ carbon monitoring (e.g., Climate Trace, Carbon Mapper, OCO-2, TROPOMI-SIF), natural CO2 fluxes and storage, net-zero strategies, and climate risk assessment. Experienced in leading cross-disciplinary, policy-relevant research projects that align with global decarbonization goals."
 
       - name: Data Analysis
-        level: Advanced
         keywords: "Advanced proficiency in MATLAB, Python (e.g., Pandas, NumPy, SciPy, xclim, Dask, xarray), MS Excel, and ArcGIS. Demonstrated expertise in managing large datasets, spatially analyzing emissions data, and applying statistical and geospatial methods to monitor compliance with climate change mitigation scenarios. Skilled in processing satellite observations, emissions inventories, and site-specific data to identify pollution sources and support regulatory frameworks."
 
       - name: Writing
-        level: Expert
         keywords: "Experienced in authoring peer-reviewed articles, technical reports, and public-facing research briefs. Skilled at synthesizing and summarizing complex scientific findings for both expert and non-expert audiences. Committed to scientific accuracy, transparency, and reproducibility."
 
       - name: Presentation
-        level: Advanced
         keywords: "Proficient in developing engaging and accessible visual content using Python, MATLAB, Adobe Illustrator, and MS PowerPoint. Demonstrated ability to convey complex climate science to diverse audiences, including policymakers, stakeholders, and interdisciplinary teams."
 
       - name: Languages
-        level: Fluent
-        keywords: "English and Spanish"
+        keywords: "Fluent in English and Spanish"
 
       - name: Other
-        level: ""
         keywords: "Extensive experience mentoring undergraduate, graduate, and postdoctoral researchers. Proven ability to lead collaborative research teams across institutions and disciplines. Comfortable interacting with media, policymakers, external partners, and community stakeholders. Skilled in project coordination and stakeholder engagement. Experienced in authoring research grants."
 
     Awards:
