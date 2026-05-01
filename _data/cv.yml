@@ -69,15 +69,15 @@ cv:
         summary: "Advisor: Justin Mankin"
 
       - institution: University of California, Los Angeles
-        position: UC President's Postdoctoral Fellow, Institute of the Environment and Sustainability
+        position: "UC President's Postdoctoral Fellow, Institute of the Environment and Sustainability"
         location: Los Angeles, CA, USA
         url: https://www.ioes.ucla.edu/person/robert-fofrich/
         start_date: 2023-01-01
         end_date: 2025-01-01
         summary: "Advisor: Elsa Ordway"
 
-      - institution: Rutgers University | Climate Impact Lab
-        position: Postdoctoral Associate, Earth & Planetary Sciences and Climate Impact Lab
+      - institution: "Rutgers University | Climate Impact Lab"
+        position: "Postdoctoral Associate, Earth & Planetary Sciences and Climate Impact Lab"
         location: New Brunswick, NJ
         url: https://impactlab.org/team/
         start_date: 2022-01-01
@@ -117,7 +117,7 @@ cv:
         publisher: "PNAS Nexus (in press)"
         releaseDate: 2026
         summary: ""
-      
+
       - title: "Ownership of Power Plants Stranded by Climate Mitigation"
         authors:
           - R Fofrich
@@ -154,6 +154,55 @@ cv:
         url: "https://www.science.org/doi/10.1126/science.adt7820"
         summary: ""
 
+      - title: "Crop Migration in Response to Future Climate Change"
+        authors:
+          - R Fofrich
+          - L Sloat
+          - N Diffenbaugh
+          - F Moore
+          - N Mueller
+          - SJ Davis
+        publisher: "Environmental Research Letters (2nd revision)"
+        releaseDate: 2025
+        summary: ""
+
+      - title: "GDNat: a Global, Daily, High-Resolution, Natural-Forcing-Only Temperature Data Set for Attribution Research"
+        authors:
+          - R Fofrich
+          - K McCusker
+          - B Malevich
+          - R Kopp
+        publisher: "Submitted"
+        releaseDate: 2025
+        summary: ""
+
+      - title: "Global Change Impacts on the Dja Reserve: Land-Use and Climate Change"
+        authors:
+          - E Ordway
+          - B Egoh
+          - S Biswas
+          - K Dutko
+          - V Deblauwe
+          - R Fofrich
+          - L Ayompe
+          - H Souter
+          - E Wesner
+          - S Worden
+        publisher: "Submitted"
+        releaseDate: 2025
+        summary: ""
+
+      - title: "Electricity Climate-Compatibility Index: Measuring Global Progress Towards Decarbonizing the Electricity Sector"
+        authors:
+          - A Alotaiq
+          - K Collet
+          - R Fofrich
+          - D Wallom
+          - M McCulloch
+        publisher: Journal of Economy and Technology
+        releaseDate: 2024
+        summary: ""
+
       - title: "Early Retirement of Power Plants in Climate Mitigation Scenarios"
         authors:
           - R Fofrich
@@ -171,7 +220,7 @@ cv:
         url: "https://iopscience.iop.org/article/10.1088/1748-9326/ab96d3"
         summary: ""
 
-      - title: "Committed Emissions of the U.S. Power Sector, 2000–2018"
+      - title: "Committed Emissions of the U.S. Power Sector, 2000-2018"
         authors:
           - C Shearer
           - D Tong
@@ -289,22 +338,87 @@ cv:
 
       - title: Riding the Roadmap to Transfer Fellowship
         date: 2012
-        awarder: "National Science Foundation – West Los Angeles College"
+        awarder: "National Science Foundation - West Los Angeles College"
         summary: "Awarded 2012 & 2013"
 
-    Projects:
-      - name: Teaching
-        summary: >
-          Guest Lecturer, Natural Climate Solutions, Dept. Geography, UCLA (2024–2026).
-          Teaching Assistant for Sustainable Energy, Intro to the Cryosphere, Sustainable
-          Food and Water Systems, GIS Fundamentals, and Introduction to Earth System
-          Science at UC Irvine (2016–2021). Instructor, Health and Safety,
-          American Red Cross, Greater Los Angeles (2010–2012).
-        highlights:
-          - "15+ undergraduate and graduate students mentored across UC Irvine, UCLA, and Rutgers"
-          - "Research supervision of 4 students with co-authored publications"
-        start_date: 2010-01-01
-        end_date: Current
+    Teaching:
+      - bullet: "**Guest Lecturer** — Natural Climate Solutions, Dept. Geography, UCLA (2024, 2025, 2026)"
+      - bullet: "**Teaching Assistant** — Sustainable Energy, Dept. of Earth System Science, UC Irvine (2020, 2021)"
+      - bullet: "**Teaching Assistant** — Intro to the Cryosphere, Dept. of Earth System Science, UC Irvine (2020, 2021)"
+      - bullet: "**Teaching Assistant** — Sustainable Food and Water Systems, Dept. of Earth System Science, UC Irvine (2019)"
+      - bullet: "**Teaching Assistant** — Fundamentals of Geographic Information Systems, Dept. of Earth System Science, UC Irvine (2017)"
+      - bullet: "**Teaching Assistant** — Introduction to Earth System Science, Dept. of Earth System Science, UC Irvine (2016)"
+      - bullet: "**Instructor** — Health and Safety, American Red Cross, Greater Los Angeles, CA (2010-2012)"
+
+    Mentoring:
+      - label: Research Supervision
+        details: "Cate O'Bryon (undergrad, UCLA, 2024-2025); Alcen Chiu (undergrad, UCLA, 2023-2024); Daniel Blanco (Ph.D., Rutgers, 2022-2023); Lauren Liebermann (undergrad, UC Irvine, 2021-2022)"
+      - label: Undergraduate Mentoring
+        details: "Anna Ho (UC Irvine, 2025-current); Isabelle Gomez (UCLA, 2025); Brandon Ng (UC Irvine, 2024-2025); London Perkins (UC Irvine, 2024-2025); Aaron Wang (UC Irvine, 2024-2025); Mathew Ye (UCLA, 2024); Phoebe Caudill (UC Irvine, 2023-2024); Sarah Mey (UC Irvine, 2022-2023); Angelica Loya (UC Irvine, 2021-2022); Monet Bridgewater (UC Irvine, 2022); Jordyn Rodwell (UC Irvine, 2017)"
+      - label: Graduate Mentoring
+        details: "Marina Fennel (Ph.D., UC Irvine, 2021-2022); Kyle Manley (Ph.D., UC Irvine, 2020-2022); Matea Djokic (Ph.D., UC Irvine, 2020-2021); Ariane Jong (Ph.D., UC Irvine, 2020-2021); Gracie Wong (Ph.D., UC Irvine, 2019-2020)"
+
+    Academic Service:
+      - label: "2025-current"
+        details: "Engagement Committee Chair, National Postdoctoral Association (NPA)"
+      - label: "2024-2025"
+        details: "Task Force on a Vision for American Science & Technology, Science & Technology Action Committee"
+      - label: "2023-2025"
+        details: "Committee for Anti-Racism and Equity (CARE), Dept. of Ecology and Evolutionary Biology, UCLA"
+      - label: "2023-2024"
+        details: "Diversity Task Force, National Postdoctoral Association (NPA)"
+      - label: "2022-2024"
+        details: "Postdoc Council, National Postdoctoral Association (NPA)"
+      - label: "2020-2022"
+        details: "Speaker Series Search Committee, Dept. of Earth System Science, UC Irvine"
+      - label: "2019-2021"
+        details: "Conservation and Outreach Chair, Orange County Chapter of the Society for Conservation Biology"
+      - label: "2019-2020"
+        details: "Graduate Student Representative, Dept. of Earth System Science, UC Irvine"
+      - label: "2017-2019"
+        details: "Science Educator, Community Engagement, Climate Solutions Annual Conference"
+      - label: "2012-2014"
+        details: "Cofounder and Vice President, American Chemical Society (West Los Angeles Chapter)"
+
+    Scientific Presentations:
+      - bullet: "**2026** — Invited talk, Quantifying the drivers and damages of climate change, Dept. of Environmental Science, UC Riverside, CA"
+      - bullet: "**2025** — Invited talk, Pursuing a Postdoc Proactively, Virginia Tech, Blacksburg, VA"
+      - bullet: "**2025** — GDNat: a Global, Daily, High-Resolution, Natural-Forcing-Only Temperature Data Set for Attribution Research, European Geosciences Union, Vienna, Austria"
+      - bullet: "**2025** — Keynote address, The Role of Community Colleges in the Fight Against Climate Change, LA Community College Regional Consortium Conference, Los Angeles, CA"
+      - bullet: "**2025** — Invited talk, Bridging Climate Science & Sustainability: Transdisciplinary Models for Climate Change Mitigation, IE University, Madrid, Spain"
+      - bullet: "**2024** — GDNat: a Global, Daily, High-Resolution, Natural-Forcing-Only Temperature Data Set for Attribution Research, American Geophysical Union Fall Meeting, Washington, D.C."
+      - bullet: "**2024** — Invited talk, Confronting Climate Change Mitigation Challenges, NASA-JPL, Pasadena, CA"
+      - bullet: "**2024** — Challenges to Mitigating Climate Change Drivers, Institute for Digital Research and Education, UCLA, CA"
+      - bullet: "**2024** — Climate Risks to Tropical Ecosystems, Dept. of Ecology and Evolutionary Biology, UCLA, CA"
+      - bullet: "**2024** — Navigating Climate Change Transition Risks, Institute for Digital Research and Education, UCLA, CA"
+      - bullet: "**2023** — Ecological and Climate Mitigation Tradeoffs from Cultivating Energy Crops in Tropical Regions, American Geophysical Union Fall Meeting, San Francisco, CA"
+      - bullet: "**2023** — Harnessing High-Performance Computing Across STEM Disciplines, Institute for Digital Research and Education, UCLA, CA"
+      - bullet: "**2023** — Keynote address, Why Do We Need Green and Blue Jobs?, California Center for Climate Change Education, West Los Angeles College, CA"
+      - bullet: "**2020** — Agricultural migration to avoid future climate change, American Geophysical Union Fall Meeting, Virtual"
+      - bullet: "**2020** — Invited talk, Decarbonizing Contemporary Society, Climate Solutions Conference, UCI Ridge to Reef & Newport Bay Conservancy, Costa Mesa, CA"
+      - bullet: "**2019** — Early Retirement of Power Plants in Climate Mitigation Scenarios, American Geophysical Union Fall Meeting, San Francisco, CA"
+      - bullet: "**2019** — Invited talk, Infrastructural Inertia in Energy-Emissions Scenarios, UC Office of the President Global Climate Leadership Council Annual Meeting, Irvine, CA"
+      - bullet: "**2019** — Ecosystem Climate Migrations in the Anthropocene, Decolonizing Ecology and Indigenous Land Co-Management Conference, Irvine, CA"
+      - bullet: "**2018** — Infrastructural Inertia in Energy-Emissions Scenarios, American Geophysical Union Fall Meeting, Washington, D.C."
+      - bullet: "**2018** — Invited talk, What Community College Can Do For You, Creative Edge Conference, West Los Angeles College, CA"
+      - bullet: "**2018** — Infrastructural Inertia in Energy-Emissions Scenarios, Carnegie Institution for Science Global Ecology Energy Symposium, Palo Alto, CA"
+      - bullet: "**2017** — Future CO2 emissions and electricity generation from proposed coal-fired power plants in India, American Geophysical Union Fall Meeting, New Orleans, LA"
+      - bullet: "**2015** — A global database of smoke injection heights from landscape fires, NASA-JPL SURF Symposium, Pasadena, CA"
+
+    Journal Referee:
+      - bullet: "Nature Climate Change; Environmental Research: Food Systems; Environmental Research: Letters; Environmental Research: Communications; Environmental Research: Climate; Environmental Research: Energy; Environmental Science & Technology; Environmental Sciences Europe; Energy and Climate Change; Scientific Reports; Cleaner and Circular Bioeconomy"
+
+    Professional Associations:
+      - bullet: "American Geophysical Union (AGU)"
+      - bullet: "European Geosciences Union (EGU)"
+      - bullet: "Society for Conservation Biology"
+      - bullet: "National Postdoctoral Association (NPA)"
+      - bullet: "American Association for the Advancement of Science (AAAS)"
+      - bullet: "Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)"
+      - bullet: "Society for Leadership and Success, University of California, Irvine"
+      - bullet: "Sigma Xi"
+      - bullet: "Phi Theta Kappa"
+      - bullet: "Alpha Gamma Sigma"
 
     References:
       - name: "Justin Mankin, Ph.D."
