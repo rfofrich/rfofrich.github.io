@@ -1,461 +1,480 @@
 {
-  "name": "Robert Fofrich, Ph.D.",
-  "contact": {
+  "basics": {
+    "name": "Robert Fofrich Navarro",
+    "label": "Postdoctoral Research Associate",
+    "image": "",
     "email": "robertfofrich@dartmouth.edu",
-    "linkedin": "https://www.linkedin.com/in/robertfofrich"
+    "phone": "",
+    "url": "https://rfofrich.github.io",
+    "summary": "I develop sustainable, equitable, and economically viable solutions to mitigate the drivers and risks of anthropogenic climate change. My research spans climate attribution, decarbonization, carbon removal solutions, and climate risk management.",
+    "location": {
+      "address": "33 Tuck Mall",
+      "postalCode": "03755",
+      "city": "Hanover",
+      "countryCode": "US",
+      "region": "New Hampshire"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "robertfofrich",
+        "url": "https://www.linkedin.com/in/robertfofrich/"
+      },
+      {
+        "network": "GitHub",
+        "username": "rfofrich",
+        "url": "https://github.com/rfofrich"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Robert Fofrich",
+        "url": "https://scholar.google.com/citations?user=5_uvPIIAAAAJ&hl=en"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0001-6418-3692",
+        "url": "https://orcid.org/0000-0001-6418-3692"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Robert-Fofrich-2",
+        "url": "https://www.researchgate.net/profile/Robert-Fofrich-2"
+      },
+      {
+        "network": "Bluesky",
+        "username": "robertfofrich.bsky.social",
+        "url": "https://bsky.app/profile/robertfofrich.bsky.social"
+      }
+    ]
   },
-  "last_updated": "April 8, 2026",
-  "current_position": {
-    "title": "Postdoctoral Research Associate",
-    "department": "Department of Geography",
-    "institution": "Dartmouth College",
-    "advisor": "Justin Mankin",
-    "start_year": 2025
-  },
-  "research_interests": "Developing sustainable, equitable, and economically viable solutions to mitigate the drivers and risks of anthropogenic climate change, including climate attribution, decarbonization, carbon removal solutions, and climate risk management.",
+  "work": [
+    {
+      "name": "Dartmouth College",
+      "position": "Postdoctoral Research Associate, Department of Geography",
+      "url": "https://geography.dartmouth.edu/",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "Advisor: Justin Mankin",
+      "highlights": []
+    },
+    {
+      "name": "University of California, Los Angeles",
+      "position": "UC President's Postdoctoral Fellow, Institute of the Environment and Sustainability",
+      "url": "https://www.ioes.ucla.edu/",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01",
+      "summary": "Advisor: Elsa Ordway",
+      "highlights": []
+    },
+    {
+      "name": "Rutgers University",
+      "position": "Postdoctoral Associate, Earth & Planetary Sciences and Climate Impact Lab",
+      "url": "https://www.rutgers.edu/",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Advisors: Robert Kopp and Kelly McCusker",
+      "highlights": []
+    },
+    {
+      "name": "University of California, Irvine",
+      "position": "Graduate Researcher, Department of Earth System Science",
+      "url": "https://www.ess.uci.edu/",
+      "startDate": "2016-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Advisor: Steven J. Davis",
+      "highlights": []
+    },
+    {
+      "name": "NASA Jet Propulsion Laboratory",
+      "position": "Undergraduate Researcher, Center for Climate Sciences",
+      "url": "https://www.jpl.nasa.gov/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Advisor: Mika Tosca",
+      "highlights": []
+    },
+    {
+      "name": "University of California, Irvine",
+      "position": "Undergraduate Researcher, Center for Environmental Biology",
+      "url": "https://www.uci.edu/",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Advisor: Sarah Kimball",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "National Postdoctoral Association (NPA)",
+      "position": "Engagement Committee Chair",
+      "url": "https://www.nationalpostdoc.org/",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Science & Technology Action Committee",
+      "position": "Task Force on a Vision for American Science & Technology",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2025-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Department of Ecology and Evolutionary Biology, UCLA",
+      "position": "Committee for Anti-Racism and Equity (CARE)",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "National Postdoctoral Association (NPA)",
+      "position": "Diversity Task Force",
+      "url": "https://www.nationalpostdoc.org/",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "National Postdoctoral Association (NPA)",
+      "position": "Postdoc Council",
+      "url": "https://www.nationalpostdoc.org/",
+      "startDate": "2022-01-01",
+      "endDate": "2024-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Department of Earth System Science, UC Irvine",
+      "position": "Speaker Series Search Committee",
+      "url": "",
+      "startDate": "2020-01-01",
+      "endDate": "2022-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Department of Earth System Science, UC Irvine",
+      "position": "Graduate Student Representative",
+      "url": "",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Orange County Chapter of the Society for Conservation Biology",
+      "position": "Conservation and Outreach Chair",
+      "url": "",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Climate Solutions Annual Conference",
+      "position": "Science Educator, Community Engagement",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "2019-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "American Chemical Society (West Los Angeles Chapter)",
+      "position": "Cofounder and Vice President",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "degree": "Ph.D.",
-      "field": "Earth System Science",
       "institution": "University of California, Irvine",
-      "year": 2022,
-      "advisor": "Steven J. Davis (now at Stanford)",
-      "dissertation": "Constraints to Climate Change Mitigation and Adaptation"
+      "url": "https://www.uci.edu/",
+      "area": "Earth System Science",
+      "studyType": "Ph.D.",
+      "startDate": "2016-01-01",
+      "endDate": "2022-01-01",
+      "score": "",
+      "courses": ["Dissertation: Constraints to Climate Change Mitigation and Adaptation", "Advisor: Steven J. Davis"]
     },
     {
-      "degree": "M.S.",
-      "field": "Earth System Science",
       "institution": "University of California, Irvine",
-      "year": 2019
+      "url": "https://www.uci.edu/",
+      "area": "Earth System Science",
+      "studyType": "M.S.",
+      "startDate": "2016-01-01",
+      "endDate": "2019-01-01",
+      "score": "",
+      "courses": []
     },
     {
-      "degree": "B.S.",
-      "field": "Earth System Science",
       "institution": "University of California, Irvine",
-      "year": 2016
+      "url": "https://www.uci.edu/",
+      "area": "Earth System Science",
+      "studyType": "B.S.",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
     },
     {
-      "degree": "A.A.",
-      "field": "Liberal Arts & Science: Math, Sciences & Computer Science",
       "institution": "West Los Angeles College",
-      "year": 2014,
-      "honors": "magna cum laude"
+      "url": "https://www.wlac.edu/",
+      "area": "Liberal Arts & Science: Math, Sciences & Computer Science",
+      "studyType": "A.A.",
+      "startDate": "2012-01-01",
+      "endDate": "2014-01-01",
+      "score": "magna cum laude",
+      "courses": []
     }
-  ],
-  "past_research_experience": [
-    {
-      "title": "University of California President's Postdoctoral Fellow",
-      "institution": "Institute of the Environment and Sustainability, University of California, Los Angeles (UCLA)",
-      "advisor": "Elsa Ordway",
-      "start_year": 2023,
-      "end_year": 2025
-    },
-    {
-      "title": "Postdoctoral Associate",
-      "institution": "Earth & Planetary Sciences and Climate Impact Lab, Rutgers University, New Brunswick",
-      "advisors": ["Robert Kopp", "Kelly McCusker"],
-      "start_year": 2022,
-      "end_year": 2022
-    },
-    {
-      "title": "Graduate Researcher",
-      "institution": "Department of Earth System Science, University of California, Irvine",
-      "advisor": "Steven J. Davis (now at Stanford)",
-      "start_year": 2016,
-      "end_year": 2022
-    },
-    {
-      "title": "Undergraduate Researcher",
-      "institution": "Center for Climate Sciences, NASA Jet Propulsion Laboratory",
-      "advisor": "Mika Tosca",
-      "start_year": 2015,
-      "end_year": 2016
-    },
-    {
-      "title": "Undergraduate Researcher",
-      "institution": "Center for Environmental Biology, University of California, Irvine",
-      "advisor": "Sarah Kimball",
-      "start_year": 2014,
-      "end_year": 2015
-    }
-  ],
-  "publications": {
-    "ids": {
-      "scopus": "57194096329",
-      "orcid": "0000-0001-6418-3692"
-    },
-    "published": [
-      {
-        "authors": "R Fofrich, L Liebermann*, F Moore, C Shearer, and SJ Davis",
-        "title": "Ownership of Power Plants Stranded by Climate Mitigation",
-        "journal": "Nature Sustainability",
-        "year": 2025
-      },
-      {
-        "authors": "S Seibel, R Luarkie, D Cardenas, C Mayer, R Sanchez, M Danneberg, BM Panek, A Bond, Z Gordan, D Morishige, K Hadrick, G Stahnke, R Fofrich, SJ Davis, R Tallman, B Bowser, and M Bazilian",
-        "title": "A Path Towards Tribal Energy Sovereignty",
-        "journal": "Science",
-        "year": 2025
-      },
-      {
-        "authors": "A Alotaiq, K Collet, R Fofrich, D Wallom, and M McCulloch",
-        "title": "Electricity Climate-Compatibility Index: Measuring Global Progress Towards Decarbonizing the Electricity Sector",
-        "journal": "Journal of Economy and Technology",
-        "year": 2024
-      },
-      {
-        "authors": "R Fofrich, D Tong, K Calvin, H Sytze de Boer, J Emmerling, O Fricko, S Fujimori, G Luderer, J Rogelj, and SJ Davis",
-        "title": "Early Retirement of Power Plants in Climate Mitigation Scenarios",
-        "journal": "Environmental Research Letters",
-        "year": 2020
-      },
-      {
-        "authors": "C Shearer, D Tong, R Fofrich, and SJ Davis",
-        "title": "Committed Emissions of the U.S. Power Sector, 2000–2018",
-        "journal": "AGU Advances",
-        "year": 2020
-      },
-      {
-        "authors": "C Shearer, R Fofrich, and SJ Davis",
-        "title": "Future CO2 Emissions and Electricity Generation from Proposed Coal-Fired Power Plants in India",
-        "journal": "Earth's Future",
-        "year": 2017
-      }
-    ],
-    "submitted_and_forthcoming": [
-      {
-        "authors": "R Fofrich, A Chiu*, and E Ordway",
-        "title": "Climate and Ecological Constraints of Cultivating Bioenergy Crops for Climate Mitigation in Tropical Regions",
-        "status": "Accepted – PNAS Nexus"
-      },
-      {
-        "authors": "R Fofrich, L Sloat, N Diffenbaugh, F Moore, N Mueller, and SJ Davis",
-        "title": "Crop Migration in Response to Future Climate Change",
-        "status": "2nd revision – Environmental Research Letters"
-      },
-      {
-        "authors": "E Ordway, B Egoh, S Biswas, K Dutko, V Deblauwe, R Fofrich, L Ayompe, H Souter, E Wesner, and S Worden",
-        "title": "Global Change Impacts on the Dja Reserve: Land-Use and Climate Change",
-        "status": "submitted"
-      },
-      {
-        "authors": "R Fofrich, K McCusker, B Malevich, and R Kopp",
-        "title": "GDNat: a Global, Daily, High-Resolution, Natural-Forcing-Only Temperature Data Set for Attribution Research",
-        "status": "submitted"
-      }
-    ]
-  },
-  "skills": {
-    "research": "Expertise in climate change mitigation pathways, carbon accounting, decarbonization strategies, carbon offset programs, and measuring emissions from energy and agriculture infrastructure. Experience with remote sensing and in situ carbon monitoring (e.g., Climate Trace, Carbon Mapper, OCO-2, TROPOMI-SIF), natural CO₂ fluxes and storage, net-zero strategies, and climate risk assessment.",
-    "data_analysis": ["MATLAB", "Python (Pandas, NumPy, SciPy, xclim, Dask, xarray)", "MS Excel", "ArcGIS"],
-    "writing": "Experienced in authoring peer-reviewed articles, technical reports, and public-facing research briefs.",
-    "presentation": ["Python", "MATLAB", "Adobe Illustrator", "MS PowerPoint"],
-    "languages": ["English (fluent)", "Spanish (fluent)"],
-    "other": "Mentoring, collaborative team leadership, media and policymaker engagement, stakeholder engagement, project coordination, grant authoring."
-  },
-  "scientific_presentations": [
-    {
-      "year": 2026,
-      "title": "Quantifying the drivers and damages of climate change",
-      "type": "Invited talk",
-      "venue": "Department of Environmental Science, University of California, Riverside, CA"
-    },
-    {
-      "year": 2025,
-      "title": "Pursuing a Postdoc Proactively",
-      "type": "Invited talk",
-      "venue": "Virginia Polytechnic Institute and State University (Virginia Tech), Blacksburg, VA"
-    },
-    {
-      "year": 2025,
-      "title": "GDNat: a Global, Daily, High-Resolution, Natural-Forcing-Only Temperature Data Set for Attribution Research",
-      "type": "Conference presentation",
-      "venue": "European Geosciences Union, Vienna, Austria"
-    },
-    {
-      "year": 2025,
-      "title": "The Role of Community Colleges in the Fight Against Climate Change",
-      "type": "Keynote address / Invited talk",
-      "venue": "Los Angeles Community College Regional Consortium Conference annual meeting, Los Angeles, CA"
-    },
-    {
-      "year": 2025,
-      "title": "Bridging Climate Science & Sustainability: Transdisciplinary Models for Climate Change Mitigation",
-      "type": "Invited talk",
-      "venue": "IE University, Madrid, Spain"
-    },
-    {
-      "year": 2024,
-      "title": "GDNat: a Global, Daily, High-Resolution, Natural-Forcing-Only Temperature Data Set for Attribution Research",
-      "type": "Conference presentation",
-      "venue": "American Geophysical Union Fall Meeting, Washington, D.C."
-    },
-    {
-      "year": 2024,
-      "title": "Confronting Climate Change Mitigation Challenges",
-      "type": "Invited talk",
-      "venue": "Carbon Cycle and Ecosystems, NASA-JPL, Pasadena, CA"
-    },
-    {
-      "year": 2024,
-      "title": "Challenges to Mitigating Climate Change Drivers and Associated Risks of Surpassing Lower Emission Targets",
-      "type": "Conference presentation",
-      "venue": "Institute for Digital Research and Education, University of California, Los Angeles, CA"
-    },
-    {
-      "year": 2024,
-      "title": "Climate Risks to Tropical Ecosystems",
-      "type": "Presentation",
-      "venue": "Department of Ecology and Evolutionary Biology, University of California, Los Angeles, CA"
-    },
-    {
-      "year": 2024,
-      "title": "Navigating Climate Change Transition Risks",
-      "type": "Presentation",
-      "venue": "Institute for Digital Research and Education, University of California, Los Angeles, CA"
-    },
-    {
-      "year": 2023,
-      "title": "Ecological and Climate Mitigation Tradeoffs from Cultivating Energy Crops in Tropical Regions",
-      "type": "Conference presentation",
-      "venue": "American Geophysical Union Fall Meeting, San Francisco, CA"
-    },
-    {
-      "year": 2023,
-      "title": "Harnessing High-Performance Computing Across STEM Disciplines",
-      "type": "Presentation",
-      "venue": "Institute for Digital Research and Education, University of California, Los Angeles, CA"
-    },
-    {
-      "year": 2023,
-      "title": "Why Do We Need Green and Blue Jobs?",
-      "type": "Keynote address / Invited talk",
-      "venue": "California Center for Climate Change Education, West Los Angeles College, Culver City, CA"
-    },
-    {
-      "year": 2020,
-      "title": "Agricultural migration to avoid future climate change",
-      "type": "Conference presentation",
-      "venue": "American Geophysical Union Fall Meeting, Virtual Meeting"
-    },
-    {
-      "year": 2020,
-      "title": "Decarbonizing Contemporary Society",
-      "type": "Invited talk",
-      "venue": "Climate Solutions Conference, UCI Ridge to Reef & Newport Bay Conservancy, Costa Mesa, CA"
-    },
-    {
-      "year": 2019,
-      "title": "Early Retirement of Power Plants in Climate Mitigation Scenarios",
-      "type": "Conference presentation",
-      "venue": "American Geophysical Union Fall Meeting, San Francisco, CA"
-    },
-    {
-      "year": 2019,
-      "title": "Infrastructural Inertia in Energy-Emissions Scenarios",
-      "type": "Invited talk",
-      "venue": "University of California Office of the President - Global Climate Leadership Council Annual Meeting, Irvine, CA"
-    },
-    {
-      "year": 2019,
-      "title": "Ecosystem Climate Migrations in the Anthropocene",
-      "type": "Conference presentation",
-      "venue": "Decolonizing Ecology and Indigenous Land Co-Management Conference, Irvine, CA"
-    },
-    {
-      "year": 2018,
-      "title": "Infrastructural Inertia in Energy-Emissions Scenarios",
-      "type": "Conference presentation",
-      "venue": "American Geophysical Union Fall Meeting, Washington, D.C."
-    },
-    {
-      "year": 2018,
-      "title": "What Community College Can Do For You",
-      "type": "Invited talk",
-      "venue": "Creative Edge Conference, West Los Angeles College, Culver City, CA"
-    },
-    {
-      "year": 2018,
-      "title": "Infrastructural Inertia in Energy-Emissions Scenarios",
-      "type": "Symposium presentation",
-      "venue": "Carnegie Institution for Science, Carnegie Science Global Ecology Energy Symposium, Palo Alto, CA"
-    },
-    {
-      "year": 2017,
-      "title": "Future CO2 emissions and electricity generation from proposed coal-fired power plants in India",
-      "type": "Conference presentation",
-      "venue": "American Geophysical Union Fall Meeting, New Orleans, LA"
-    },
-    {
-      "year": 2017,
-      "title": "Climate Change Challenges",
-      "type": "Presentation",
-      "venue": "Department of Earth System Science, University of California, Irvine, CA"
-    },
-    {
-      "year": 2015,
-      "title": "A global database of smoke injection heights from landscape fires: an analysis of 2009–2010",
-      "type": "Symposium presentation",
-      "venue": "NASA-JPL SURF Symposium, Pasadena, CA"
-    }
-  ],
-  "teaching": {
-    "guest_lecturer": [
-      {
-        "course": "Natural Climate Solutions",
-        "department": "Dept. Geography, University of California, Los Angeles",
-        "years": [2024, 2025, 2026]
-      }
-    ],
-    "teaching_assistant": [
-      {
-        "course": "Sustainable Energy",
-        "department": "Dept. of Earth System Science, University of California, Irvine",
-        "years": [2020, 2021]
-      },
-      {
-        "course": "Intro to the Cryosphere",
-        "department": "Dept. of Earth System Science, University of California, Irvine",
-        "years": [2020, 2021]
-      },
-      {
-        "course": "Sustainable Food and Water Systems",
-        "department": "Dept. of Earth System Science, University of California, Irvine",
-        "years": [2019]
-      },
-      {
-        "course": "Fundamentals of Geographic Information Systems",
-        "department": "Dept. of Earth System Science, University of California, Irvine",
-        "years": [2017]
-      },
-      {
-        "course": "Introduction to Earth System Science",
-        "department": "Dept. of Earth System Science, University of California, Irvine",
-        "years": [2016]
-      }
-    ],
-    "instructor": [
-      {
-        "course": "Health and Safety",
-        "institution": "American Red Cross, Greater Los Angeles, CA",
-        "years": "2010–2012"
-      }
-    ]
-  },
-  "mentoring": {
-    "research_supervision": [
-      { "name": "Cate O'Bryon", "level": "undergraduate", "institution": "UCLA", "period": "Sept. 2024 – April 2025" },
-      { "name": "Alcen Chiu", "level": "undergraduate", "institution": "UCLA", "period": "Jan. 2023 – June 2024" },
-      { "name": "Daniel Blanco", "level": "Ph.D. student", "institution": "Rutgers University", "period": "July 2022 – Jan. 2023" },
-      { "name": "Lauren Liebermann", "level": "undergraduate", "institution": "UC Irvine", "period": "Sept. 2021 – Feb. 2022" }
-    ],
-    "undergraduate_mentoring": [
-      { "name": "Anna Ho", "institution": "UC Irvine", "period": "Nov. 2025 – current" },
-      { "name": "Isabelle Gomez", "institution": "UCLA", "period": "Jan. 2025 – June 2025" },
-      { "name": "Brandon Ng", "institution": "UC Irvine", "period": "Oct. 2024 – June 2025" },
-      { "name": "London Perkins", "institution": "UC Irvine", "period": "Oct. 2024 – June 2025" },
-      { "name": "Aaron Wang", "institution": "UC Irvine", "period": "Oct. 2024 – June 2025" },
-      { "name": "Mathew Ye", "institution": "UCLA", "period": "Sept. 2024 – Dec. 2024" },
-      { "name": "Phoebe Caudill", "institution": "UC Irvine", "period": "Oct. 2023 – June 2024" },
-      { "name": "Sarah Mey", "institution": "UC Irvine", "period": "Oct. 2022 – June 2023" },
-      { "name": "Angelica Loya", "institution": "UC Irvine", "period": "Oct. 2021 – June 2022" },
-      { "name": "Monet Bridgewater", "institution": "UC Irvine", "period": "Oct. 2022 – June 2022" },
-      { "name": "Jordyn Rodwell", "institution": "UC Irvine", "period": "Feb. 2017 – June 2017" }
-    ],
-    "graduate_mentoring": [
-      { "name": "Marina Fennel", "level": "Ph.D. student", "institution": "UC Irvine", "period": "Sept. 2021 – June 2022" },
-      { "name": "Kyle Manley", "level": "Ph.D. student", "institution": "UC Irvine", "period": "Sept. 2020 – June 2022" },
-      { "name": "Matea Djokic", "level": "Ph.D. student", "institution": "UC Irvine", "period": "Sept. 2020 – August 2021" },
-      { "name": "Ariane Jong", "level": "Ph.D. student", "institution": "UC Irvine", "period": "Sept. 2020 – August 2021" },
-      { "name": "Gracie Wong", "level": "Ph.D. student", "institution": "UC Irvine", "period": "Sept. 2019 – August 2020" }
-    ]
-  },
-  "academic_service": [
-    { "role": "Engagement Committee Chair", "organization": "National Postdoctoral Association (NPA)", "years": "2025–current" },
-    { "role": "Task Force on a Vision for American Science & Technology", "organization": "Science & Technology Action Committee", "years": "2024–2025" },
-    { "role": "Committee for Anti-Racism and Equity (CARE)", "organization": "Department of Ecology and Evolutionary Biology, UCLA", "years": "2023–2025" },
-    { "role": "Diversity Task Force", "organization": "National Postdoctoral Association (NPA)", "years": "2023–2024" },
-    { "role": "Postdoc Council", "organization": "National Postdoctoral Association (NPA)", "years": "2022–2024" },
-    { "role": "Speaker Series Search Committee", "organization": "Department of Earth System Science, University of California Irvine", "years": "2020–2022" },
-    { "role": "Graduate Student Representative", "organization": "Department of Earth System Science, University of California Irvine", "years": "2019–2020" },
-    { "role": "Conservation and Outreach Chair", "organization": "The Orange County Chapter of the Society for Conservation Biology", "years": "2019–2021" },
-    { "role": "Science educator, Community Engagement", "organization": "Climate Solutions Annual Conference", "years": "2017–2019" },
-    { "role": "Cofounder and Vice President", "organization": "American Chemical Society (West Los Angeles Chapter)", "years": "2012–2014" }
-  ],
-  "fellowships_scholarships_grants": [
-    { "name": "University of California President's Postdoctoral Fellowship", "organization": "University of California Office of the President", "years": "2023 & 2024" },
-    { "name": "The Institute for Digital Research and Education (IDRE) Postdoctoral Fellowship", "organization": "University of California, Los Angeles", "year": 2023 },
-    { "name": "Rose Hills Foundation Science & Engineering Fellowship", "organization": "University of California, Irvine", "years": "2020 & 2021" },
-    { "name": "Ridge to Reef Fellowship", "organization": "National Science Foundation Research Traineeship, University of California, Irvine", "years": "2017 & 2018" },
-    { "name": "Long Institute Graduate Student Grant", "organization": "Long US-China Institute, University of California, Irvine", "year": 2017 },
-    { "name": "Reward Opportunity Advancing Distinguished Students (ROADS) Scholarship", "organization": "University of California, Irvine", "year": 2016 },
-    { "name": "Juan Francisco Lara Endowed Scholarship", "organization": "University of California, Irvine", "year": 2015 },
-    { "name": "Long Institute Graduate Student Grant", "organization": "Long US-China Institute, University of California, Irvine", "year": 2015 },
-    { "name": "Ecological Preserve Restoration Grant", "organization": "Green Initiative Fund, University of California, Irvine", "year": 2015 },
-    { "name": "AFT 1521 Foundation Scholarship", "organization": "Los Angeles Community College Guild, Los Angeles", "year": 2014 },
-    { "name": "Academic Senate Scholarship", "organization": "West Los Angeles College, Culver City", "year": 2013 },
-    { "name": "David Rodriguez Memorial Scholarship", "organization": "West Los Angeles College, Culver City", "year": 2013 },
-    { "name": "Riding the Roadmap to Transfer Fellowship", "organization": "National Science Foundation – West Los Angeles College, Culver City", "years": "2012 & 2013" }
   ],
   "awards": [
-    { "name": "Outstanding Contributions to the Department Award", "organization": "Department of Earth System Science, University of California, Irvine", "year": 2020 },
-    { "name": "Jet Propulsion Laboratory Undergraduate Scholar", "organization": "NASA Jet Propulsion Laboratory, Pasadena", "year": 2014 },
-    { "name": "Irving R. Tannenbaum Memorial Award", "organization": "West Los Angeles College, Culver City", "year": 2014 },
-    { "name": "Morris J. Heldman Chemistry Award", "organization": "West Los Angeles College, Culver City", "year": 2013 }
+    {
+      "title": "University of California President's Postdoctoral Fellowship",
+      "date": "2023-01-01",
+      "awarder": "University of California Office of the President",
+      "summary": "Awarded 2023 & 2024"
+    },
+    {
+      "title": "IDRE Postdoctoral Fellowship",
+      "date": "2023-01-01",
+      "awarder": "Institute for Digital Research and Education, UCLA",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Contributions to the Department Award",
+      "date": "2020-01-01",
+      "awarder": "Department of Earth System Science, UC Irvine",
+      "summary": ""
+    },
+    {
+      "title": "Rose Hills Foundation Science & Engineering Fellowship",
+      "date": "2020-01-01",
+      "awarder": "University of California, Irvine",
+      "summary": "Awarded 2020 & 2021"
+    },
+    {
+      "title": "Ridge to Reef Fellowship",
+      "date": "2017-01-01",
+      "awarder": "National Science Foundation Research Traineeship, UC Irvine",
+      "summary": "Awarded 2017 & 2018"
+    },
+    {
+      "title": "Long Institute Graduate Student Grant",
+      "date": "2017-01-01",
+      "awarder": "Long US-China Institute, UC Irvine",
+      "summary": "Awarded 2015 & 2017"
+    },
+    {
+      "title": "Reward Opportunity Advancing Distinguished Students (ROADS) Scholarship",
+      "date": "2016-01-01",
+      "awarder": "University of California, Irvine",
+      "summary": ""
+    },
+    {
+      "title": "Juan Francisco Lara Endowed Scholarship",
+      "date": "2015-01-01",
+      "awarder": "University of California, Irvine",
+      "summary": ""
+    },
+    {
+      "title": "Ecological Preserve Restoration Grant",
+      "date": "2015-01-01",
+      "awarder": "Green Initiative Fund, UC Irvine",
+      "summary": ""
+    },
+    {
+      "title": "Jet Propulsion Laboratory Undergraduate Scholar",
+      "date": "2014-01-01",
+      "awarder": "NASA Jet Propulsion Laboratory",
+      "summary": ""
+    },
+    {
+      "title": "Irving R. Tannenbaum Memorial Award",
+      "date": "2014-01-01",
+      "awarder": "West Los Angeles College",
+      "summary": ""
+    },
+    {
+      "title": "AFT 1521 Foundation Scholarship",
+      "date": "2014-01-01",
+      "awarder": "Los Angeles Community College Guild",
+      "summary": ""
+    },
+    {
+      "title": "Morris J. Heldman Chemistry Award",
+      "date": "2013-01-01",
+      "awarder": "West Los Angeles College",
+      "summary": ""
+    },
+    {
+      "title": "Academic Senate Scholarship",
+      "date": "2013-01-01",
+      "awarder": "West Los Angeles College",
+      "summary": ""
+    },
+    {
+      "title": "David Rodriguez Memorial Scholarship",
+      "date": "2013-01-01",
+      "awarder": "West Los Angeles College",
+      "summary": ""
+    },
+    {
+      "title": "Riding the Roadmap to Transfer Fellowship",
+      "date": "2012-01-01",
+      "awarder": "National Science Foundation – West Los Angeles College",
+      "summary": "Awarded 2012 & 2013"
+    }
   ],
-  "journal_referee": [
-    "Nature Climate Change",
-    "Environmental Research: Food Systems",
-    "Environmental Research: Letters",
-    "Environmental Research: Communications",
-    "Environmental Research: Climate",
-    "Environmental Research: Energy",
-    "Environmental Science & Technology",
-    "Environmental Sciences Europe",
-    "Energy and Climate Change",
-    "Scientific Reports",
-    "Cleaner and Circular Bioeconomy"
+  "publications": [
+    {
+      "name": "Ownership of Power Plants Stranded by Climate Mitigation",
+      "publisher": "Nature Sustainability",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "R Fofrich, L Liebermann, F Moore, C Shearer, and SJ Davis"
+    },
+    {
+      "name": "A Path Towards Tribal Energy Sovereignty",
+      "publisher": "Science",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "S Seibel, R Luarkie, D Cardenas, C Mayer, R Sanchez, M Danneberg, BM Panek, A Bond, Z Gordan, D Morishige, K Hadrick, G Stahnke, R Fofrich, SJ Davis, R Tallman, B Bowser, and M Bazilian"
+    },
+    {
+      "name": "Climate and Ecological Constraints of Cultivating Bioenergy Crops for Climate Mitigation in Tropical Regions",
+      "publisher": "PNAS Nexus (accepted)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "R Fofrich, A Chiu, and E Ordway"
+    },
+    {
+      "name": "Crop Migration in Response to Future Climate Change",
+      "publisher": "Environmental Research Letters (2nd revision)",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "R Fofrich, L Sloat, N Diffenbaugh, F Moore, N Mueller, and SJ Davis"
+    },
+    {
+      "name": "GDNat: a Global, Daily, High-Resolution, Natural-Forcing-Only Temperature Data Set for Attribution Research",
+      "publisher": "Submitted",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "R Fofrich, K McCusker, B Malevich, and R Kopp"
+    },
+    {
+      "name": "Global Change Impacts on the Dja Reserve: Land-Use and Climate Change",
+      "publisher": "Submitted",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "E Ordway, B Egoh, S Biswas, K Dutko, V Deblauwe, R Fofrich, L Ayompe, H Souter, E Wesner, and S Worden"
+    },
+    {
+      "name": "Electricity Climate-Compatibility Index: Measuring Global Progress Towards Decarbonizing the Electricity Sector",
+      "publisher": "Journal of Economy and Technology",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "A Alotaiq, K Collet, R Fofrich, D Wallom, and M McCulloch"
+    },
+    {
+      "name": "Early Retirement of Power Plants in Climate Mitigation Scenarios",
+      "publisher": "Environmental Research Letters",
+      "releaseDate": "2020",
+      "url": "",
+      "summary": "R Fofrich, D Tong, K Calvin, H Sytze de Boer, J Emmerling, O Fricko, S Fujimori, G Luderer, J Rogelj, and SJ Davis"
+    },
+    {
+      "name": "Committed Emissions of the U.S. Power Sector, 2000–2018",
+      "publisher": "AGU Advances",
+      "releaseDate": "2020",
+      "url": "",
+      "summary": "C Shearer, D Tong, R Fofrich, and SJ Davis"
+    },
+    {
+      "name": "Future CO2 Emissions and Electricity Generation from Proposed Coal-Fired Power Plants in India",
+      "publisher": "Earth's Future",
+      "releaseDate": "2017",
+      "url": "",
+      "summary": "C Shearer, R Fofrich, and SJ Davis"
+    }
   ],
-  "professional_associations": [
-    "American Geophysical Union (AGU)",
-    "European Geosciences Union (EGU)",
-    "Society for Conservation Biology",
-    "National Postdoctoral Association (NPA)",
-    "American Association for the Advancement of Science (AAAS)",
-    "Society for the Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)",
-    "Society for Leadership and Success, University of California, Irvine",
-    "Sigma Xi",
-    "Phi Theta Kappa",
-    "Alpha Gamma Sigma"
+  "skills": [
+    {
+      "name": "Programming & Data Analysis",
+      "level": "Advanced",
+      "keywords": ["Python", "MATLAB", "Pandas", "NumPy", "SciPy", "xclim", "Dask", "xarray", "ArcGIS", "MS Excel"]
+    },
+    {
+      "name": "Research",
+      "level": "Expert",
+      "keywords": ["Climate change mitigation", "Carbon accounting", "Decarbonization", "Carbon offset programs", "Remote sensing", "Climate risk assessment", "Net-zero strategies", "Emissions monitoring"]
+    },
+    {
+      "name": "Visualization & Presentation",
+      "level": "Advanced",
+      "keywords": ["Adobe Illustrator", "MS PowerPoint", "Python", "MATLAB"]
+    },
+    {
+      "name": "Writing",
+      "level": "Expert",
+      "keywords": ["Peer-reviewed articles", "Technical reports", "Research briefs", "Grant writing"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Climate Science",
+      "keywords": ["Climate attribution", "Decarbonization", "Carbon removal", "Climate risk management", "Stranded assets"]
+    },
+    {
+      "name": "Equity & Outreach",
+      "keywords": ["STEM mentorship", "Community college engagement", "Science communication", "Tribal energy sovereignty"]
+    }
   ],
   "references": [
     {
       "name": "Justin Mankin, Ph.D.",
-      "title": "Professor",
-      "department": "Department of Geography",
-      "institution": "Dartmouth College",
-      "email": "Justin.S.Mankin@dartmouth.edu"
+      "reference": "Professor, Department of Geography, Dartmouth College. Justin.S.Mankin@dartmouth.edu"
     },
     {
       "name": "Steven J. Davis, Ph.D.",
-      "title": "Professor",
-      "department": "Department of Earth System Science",
-      "institution": "Stanford University",
-      "email": "sjdavis@stanford.edu"
+      "reference": "Professor, Department of Earth System Science, Stanford University. sjdavis@stanford.edu"
     },
     {
       "name": "Robert Kopp, Ph.D.",
-      "title": "Professor",
-      "department": "Department of Earth and Planetary Sciences",
-      "institution": "Rutgers University",
-      "email": "robert.kopp@rutgers.edu"
+      "reference": "Professor, Department of Earth and Planetary Sciences, Rutgers University. robert.kopp@rutgers.edu"
     },
     {
       "name": "Elsa Ordway, Ph.D.",
-      "title": "Assistant Professor",
-      "department": "Department of Ecology and Evolutionary Biology",
-      "institution": "University of California, Los Angeles",
-      "email": "elsaordway@ucla.edu"
+      "reference": "Assistant Professor, Department of Ecology and Evolutionary Biology, UCLA. elsaordway@ucla.edu"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Teaching & Mentorship",
+      "startDate": "2016-01-01",
+      "endDate": "",
+      "description": "Guest Lecturer: Natural Climate Solutions, Dept. Geography, UCLA (2024–2026). Teaching Assistant: Sustainable Energy, Intro to the Cryosphere, Sustainable Food and Water Systems, GIS Fundamentals, Introduction to Earth System Science (UC Irvine, 2016–2021). Mentored 15+ undergraduate and graduate students across UC Irvine, UCLA, and Rutgers.",
+      "highlights": [],
+      "url": ""
     }
   ]
 }
