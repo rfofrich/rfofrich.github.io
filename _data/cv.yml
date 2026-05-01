@@ -151,7 +151,7 @@ cv:
           - M Bazilian
         publisher: Science
         releaseDate: 2025
-	url: "https://www.science.org/doi/10.1126/science.adt7820"
+        url: "https://www.science.org/doi/10.1126/science.adt7820"
         summary: ""
 
       - title: "Early Retirement of Power Plants in Climate Mitigation Scenarios"
@@ -168,7 +168,7 @@ cv:
           - SJ Davis
         publisher: Environmental Research Letters
         releaseDate: 2020
-	url: "https://iopscience.iop.org/article/10.1088/1748-9326/ab96d3"
+        url: "https://iopscience.iop.org/article/10.1088/1748-9326/ab96d3"
         summary: ""
 
       - title: "Committed Emissions of the U.S. Power Sector, 2000–2018"
@@ -179,7 +179,7 @@ cv:
           - SJ Davis
         publisher: AGU Advances
         releaseDate: 2020
-	url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020av000162"
+        url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020av000162"
         summary: ""
 
       - title: "Future CO2 Emissions and Electricity Generation from Proposed Coal-Fired Power Plants in India"
@@ -189,7 +189,7 @@ cv:
           - SJ Davis
         publisher: "Earth's Future"
         releaseDate: 2017
-	url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017EF000542"
+        url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017EF000542"
         summary: ""
 
     Skills:
