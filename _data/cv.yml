@@ -60,55 +60,64 @@ cv:
         honors: magna cum laude
 
     Experience:
-      - company: Dartmouth College
+      - institution: Dartmouth College
         position: Postdoctoral Research Associate, Department of Geography
         location: Hanover, NH, USA
-        url: https://geography.dartmouth.edu/
+        url: https://geography.dartmouth.edu/people/robert-fofrich
         start_date: 2025-01-01
         end_date: Current
         summary: "Advisor: Justin Mankin"
 
-      - company: University of California, Los Angeles
+      - institution: University of California, Los Angeles
         position: UC President's Postdoctoral Fellow, Institute of the Environment and Sustainability
         location: Los Angeles, CA, USA
-        url: https://www.ioes.ucla.edu/
+        url: https://www.ioes.ucla.edu/person/robert-fofrich/
         start_date: 2023-01-01
         end_date: 2025-01-01
         summary: "Advisor: Elsa Ordway"
 
-      - company: Rutgers University
+      - institution: Rutgers University | Climate Impact Lab
         position: Postdoctoral Associate, Earth & Planetary Sciences and Climate Impact Lab
         location: New Brunswick, NJ, USA
-        url: https://www.rutgers.edu/
+        url: https://impactlab.org/team/
         start_date: 2022-01-01
         end_date: 2022-12-31
         summary: "Advisors: Robert Kopp and Kelly McCusker"
 
-      - company: University of California, Irvine
+      - institution: University of California, Irvine
         position: Graduate Researcher, Department of Earth System Science
         location: Irvine, CA, USA
-        url: https://www.ess.uci.edu/
+        url: https://sustsys.ess.uci.edu/fofrich.html
         start_date: 2016-09-01
         end_date: 2022-02-28
         summary: "Advisor: Steven J. Davis"
 
-      - company: NASA Jet Propulsion Laboratory
+      - institution: NASA Jet Propulsion Laboratory
         position: Undergraduate Researcher, Center for Climate Sciences
         location: Pasadena, CA, USA
-        url: https://www.jpl.nasa.gov/
+        url: https://climatesciences.jpl.nasa.gov
         start_date: 2015-01-01
         end_date: 2016-01-01
         summary: "Advisor: Mika Tosca"
 
-      - company: University of California, Irvine
+      - institution: University of California, Irvine
         position: Undergraduate Researcher, Center for Environmental Biology
         location: Irvine, CA, USA
-        url: https://www.uci.edu/
+        url: https://ceb.bio.uci.edu/intern-programs/ceb-internship/2014-15-interns/
         start_date: 2014-01-01
         end_date: 2015-01-01
         summary: "Advisor: Sarah Kimball"
 
     Publications:
+      - title: "Climate and Ecological Constraints of Cultivating Bioenergy Crops for Climate Mitigation in Tropical Regions"
+        authors:
+          - R Fofrich
+          - A Chiu
+          - E Ordway
+        publisher: "PNAS Nexus (in press)"
+        releaseDate: 2026
+        summary: ""
+      
       - title: "Ownership of Power Plants Stranded by Climate Mitigation"
         authors:
           - R Fofrich
@@ -118,6 +127,7 @@ cv:
           - SJ Davis
         publisher: Nature Sustainability
         releaseDate: 2025
+        url: "https://www.nature.com/articles/s41893-025-01707-5"
         summary: ""
 
       - title: "A Path Towards Tribal Energy Sovereignty"
@@ -141,64 +151,7 @@ cv:
           - M Bazilian
         publisher: Science
         releaseDate: 2025
-        summary: ""
-
-      - title: "Climate and Ecological Constraints of Cultivating Bioenergy Crops for Climate Mitigation in Tropical Regions"
-        authors:
-          - R Fofrich
-          - A Chiu
-          - E Ordway
-        publisher: "PNAS Nexus (in press)"
-        releaseDate: 2025
-        summary: ""
-
-      - title: "Crop Migration in Response to Future Climate Change"
-        authors:
-          - R Fofrich
-          - L Sloat
-          - N Diffenbaugh
-          - F Moore
-          - N Mueller
-          - SJ Davis
-        publisher: "Environmental Research Letters (2nd revision)"
-        releaseDate: 2025
-        summary: ""
-
-      - title: "GDNat: a Global, Daily, High-Resolution, Natural-Forcing-Only Temperature Data Set for Attribution Research"
-        authors:
-          - R Fofrich
-          - K McCusker
-          - B Malevich
-          - R Kopp
-        publisher: "Submitted"
-        releaseDate: 2025
-        summary: ""
-
-      - title: "Global Change Impacts on the Dja Reserve: Land-Use and Climate Change"
-        authors:
-          - E Ordway
-          - B Egoh
-          - S Biswas
-          - K Dutko
-          - V Deblauwe
-          - R Fofrich
-          - L Ayompe
-          - H Souter
-          - E Wesner
-          - S Worden
-        publisher: "Submitted"
-        releaseDate: 2025
-        summary: ""
-
-      - title: "Electricity Climate-Compatibility Index: Measuring Global Progress Towards Decarbonizing the Electricity Sector"
-        authors:
-          - A Alotaiq
-          - K Collet
-          - R Fofrich
-          - D Wallom
-          - M McCulloch
-        publisher: Journal of Economy and Technology
-        releaseDate: 2024
+	url: "https://www.science.org/doi/10.1126/science.adt7820"
         summary: ""
 
       - title: "Early Retirement of Power Plants in Climate Mitigation Scenarios"
@@ -215,6 +168,7 @@ cv:
           - SJ Davis
         publisher: Environmental Research Letters
         releaseDate: 2020
+	url: "https://iopscience.iop.org/article/10.1088/1748-9326/ab96d3"
         summary: ""
 
       - title: "Committed Emissions of the U.S. Power Sector, 2000–2018"
@@ -225,6 +179,7 @@ cv:
           - SJ Davis
         publisher: AGU Advances
         releaseDate: 2020
+	url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020av000162"
         summary: ""
 
       - title: "Future CO2 Emissions and Electricity Generation from Proposed Coal-Fired Power Plants in India"
@@ -234,6 +189,7 @@ cv:
           - SJ Davis
         publisher: "Earth's Future"
         releaseDate: 2017
+	url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017EF000542"
         summary: ""
 
     Skills:
