@@ -207,17 +207,14 @@ cv:
 
       - name: Presentation
         level: Advanced
-        icon: fa-solid fa-chart-bar
         keywords: "Proficient in developing engaging and accessible visual content using Python, MATLAB, Adobe Illustrator, and MS PowerPoint. Demonstrated ability to convey complex climate science to diverse audiences, including policymakers, stakeholders, and interdisciplinary teams."
 
       - name: Languages
         level: Fluent
-        icon: fa-solid fa-language
         keywords: "English and Spanish"
 
       - name: Other
         level: ""
-        icon: fa-solid fa-users
         keywords: "Extensive experience mentoring undergraduate, graduate, and postdoctoral researchers. Proven ability to lead collaborative research teams across institutions and disciplines. Comfortable interacting with media, policymakers, external partners, and community stakeholders. Skilled in project coordination and stakeholder engagement. Experienced in authoring research grants."
 
     Awards:
