@@ -193,27 +193,32 @@ cv:
         summary: ""
 
     Skills:
-      - name: Programming & Data Analysis
-        level: Advanced
-        icon: fa-solid fa-code
-        keywords: "Python, MATLAB, Pandas, NumPy, SciPy, xclim, Dask, xarray, ArcGIS, MS Excel"
-
       - name: Research
         level: Expert
-        icon: fa-solid fa-magnifying-glass
-        keywords: "Climate change mitigation, Carbon accounting, Decarbonization, Remote sensing, Carbon monitoring, Climate risk assessment, Net-zero strategies"
+        keywords: "Expertise in climate change mitigation pathways, carbon accounting, decarbonization strategies, carbon offset programs, and measuring emissions from energy and agriculture infrastructure. Experience with remote sensing and in situ carbon monitoring (e.g., Climate Trace, Carbon Mapper, OCO-2, TROPOMI-SIF), natural CO2 fluxes and storage, net-zero strategies, and climate risk assessment. Experienced in leading cross-disciplinary, policy-relevant research projects that align with global decarbonization goals."
 
-      - name: Visualization & Communication
+      - name: Data Analysis
+        level: Advanced
+        keywords: "Advanced proficiency in MATLAB, Python (e.g., Pandas, NumPy, SciPy, xclim, Dask, xarray), MS Excel, and ArcGIS. Demonstrated expertise in managing large datasets, spatially analyzing emissions data, and applying statistical and geospatial methods to monitor compliance with climate change mitigation scenarios. Skilled in processing satellite observations, emissions inventories, and site-specific data to identify pollution sources and support regulatory frameworks."
+
+      - name: Writing
+        level: Expert
+        keywords: "Experienced in authoring peer-reviewed articles, technical reports, and public-facing research briefs. Skilled at synthesizing and summarizing complex scientific findings for both expert and non-expert audiences. Committed to scientific accuracy, transparency, and reproducibility."
+
+      - name: Presentation
         level: Advanced
         icon: fa-solid fa-chart-bar
-        keywords: "Adobe Illustrator, MS PowerPoint, Python, MATLAB, Science communication, Grant writing"
+        keywords: "Proficient in developing engaging and accessible visual content using Python, MATLAB, Adobe Illustrator, and MS PowerPoint. Demonstrated ability to convey complex climate science to diverse audiences, including policymakers, stakeholders, and interdisciplinary teams."
 
-    Languages:
-      - name: English
-        summary: "Native speaker"
+      - name: Languages
+        level: Fluent
+        icon: fa-solid fa-language
+        keywords: "English and Spanish"
 
-      - name: Spanish
-        summary: "Fluent"
+      - name: Other
+        level: ""
+        icon: fa-solid fa-users
+        keywords: "Extensive experience mentoring undergraduate, graduate, and postdoctoral researchers. Proven ability to lead collaborative research teams across institutions and disciplines. Comfortable interacting with media, policymakers, external partners, and community stakeholders. Skilled in project coordination and stakeholder engagement. Experienced in authoring research grants."
 
     Awards:
       - title: UC President's Postdoctoral Fellowship
@@ -312,17 +317,13 @@ cv:
 
     References:
       - name: "Justin Mankin, Ph.D."
-        icon: fa-solid fa-thumbtack
         reference: "Professor, Department of Geography, Dartmouth College. Justin.S.Mankin@dartmouth.edu"
 
       - name: "Steven J. Davis, Ph.D."
-        icon: fa-solid fa-thumbtack
         reference: "Professor, Department of Earth System Science, Stanford University. sjdavis@stanford.edu"
 
       - name: "Robert Kopp, Ph.D."
-        icon: fa-solid fa-thumbtack
         reference: "Professor, Department of Earth and Planetary Sciences, Rutgers University. robert.kopp@rutgers.edu"
 
       - name: "Elsa Ordway, Ph.D."
-        icon: fa-solid fa-thumbtack
         reference: "Assistant Professor, Department of Ecology and Evolutionary Biology, UCLA. elsaordway@ucla.edu"
