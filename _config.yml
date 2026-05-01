@@ -203,11 +203,3 @@ scholar:
   group_by: year
   group_order: descending
 
-# -----------------------------------------------------------------------------
-# Resume JSON
-# -----------------------------------------------------------------------------
-
-plugins_config:
-  jekyll-get-json:
-    - data: resume
-      json: "assets/json/resume.json"
