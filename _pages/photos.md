@@ -4,7 +4,7 @@ layout: page
 title: Photography
 permalink: /photography/
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 <style>
   body {
