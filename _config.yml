@@ -132,6 +132,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+  - BingSiteAuth.xml
 
 plugins:
   - jekyll-3rd-party-libraries
