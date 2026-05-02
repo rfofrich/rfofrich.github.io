@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Photography
@@ -30,7 +31,10 @@ All photos are my own.
     {% if photo.extname == '.jpg' or photo.extname == '.jpeg' or photo.extname == '.png' or photo.extname == '.JPG' or photo.extname == '.JPEG' %}
     <div class="col-sm-6 col-md-4 mb-4">
       <a href="{{ photo.path | relative_url }}" target="_blank">
-        <img src="{{ photo.path | relative_url }}" class="img-fluid rounded" alt="Photography by Robert Fofrich" style="object-fit: cover; width: 100%; height: 250px;" />
+        <img src="{{ photo.path | relative_url }}" class="img-fluid rounded" 
+     alt="Photography by Robert Fofrich" 
+     style="object-fit: cover; width: 100%; height: 250px;"
+     loading="lazy" />
       </a>
     </div>
     {% endif %}
