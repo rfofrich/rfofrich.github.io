@@ -223,12 +223,18 @@ html[data-theme-setting="light"] {
   background-color: var(--global-navbar-bg-color) !important;
   background-color: #00693e !important;
 
-  .nav-item .nav-link {
-    color: var(--global-navbar-text-color) !important;
+  .navbar-brand {
+    color: #ffffff !important;
+    font-weight: normal !important;
   }
 
-  .navbar-brand {
-    color: var(--global-navbar-text-color) !important;
+  .navbar-brand strong {
+    color: #ffffff !important;
+    font-weight: normal !important;
+  }
+
+  .nav-item .nav-link {
+    color: #ffffff !important;
   }
 
   .nav-item .nav-link:hover {
@@ -241,7 +247,7 @@ html[data-theme-setting="light"] {
   }
 
   #light-toggle {
-    color: var(--global-navbar-text-color) !important;
+    color: #ffffff !important;
   }
 
   #light-toggle:hover {
@@ -250,6 +256,6 @@ html[data-theme-setting="light"] {
 
   .fa-half-sun-moon::before,
   .fa-half-sun-moon::after {
-    color: var(--global-navbar-text-color) !important;
+    color: #ffffff !important;
   }
 }
