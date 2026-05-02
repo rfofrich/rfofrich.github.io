@@ -25,7 +25,7 @@ cv:
   sections:
     Education:
       - institution: University of California, Irvine
-        location: Irvine, CA, USA
+        location: Irvine, CA
         url: https://www.ess.uci.edu/
         area: Earth System Science
         studyType: Ph.D.
@@ -35,7 +35,7 @@ cv:
         advisor: Dr. Steven J. Davis
 
       - institution: University of California, Irvine
-        location: Irvine, CA, USA
+        location: Irvine, CA
         url: https://www.ess.uci.edu/
         area: Earth System Science
         studyType: M.S.
@@ -43,7 +43,7 @@ cv:
         end_date: 2019
 
       - institution: University of California, Irvine
-        location: Irvine, CA, USA
+        location: Irvine, CA
         url: https://www.uci.edu/
         area: Earth System Science
         studyType: B.S.
@@ -51,7 +51,7 @@ cv:
         end_date: 2016
 
       - institution: West Los Angeles College
-        location: Culver City, CA, USA
+        location: Culver City, CA
         url: https://www.wlac.edu/
         area: "Liberal Arts & Science: Math, Sciences & Computer Science"
         studyType: A.A.
@@ -62,7 +62,7 @@ cv:
     Experience:
       - institution: Dartmouth College
         position: Postdoctoral Research Associate, Department of Geography
-        location: Hanover, NH, USA
+        location: Hanover, NH
         url: https://geography.dartmouth.edu/people/robert-fofrich
         start_date: 2025-01-01
         end_date: Current
@@ -70,7 +70,7 @@ cv:
 
       - institution: University of California, Los Angeles
         position: "UC President's Postdoctoral Fellow, Institute of the Environment and Sustainability"
-        location: Los Angeles, CA, USA
+        location: Los Angeles, CA
         url: https://www.ioes.ucla.edu/person/robert-fofrich/
         start_date: 2023-01-01
         end_date: 2025-01-01
@@ -86,7 +86,7 @@ cv:
 
       - institution: University of California, Irvine
         position: Graduate Researcher, Department of Earth System Science
-        location: Irvine, CA, USA
+        location: Irvine, CA
         url: https://sustsys.ess.uci.edu/fofrich.html
         start_date: 2016-09-01
         end_date: 2022-02-28
@@ -94,7 +94,7 @@ cv:
 
       - institution: NASA Jet Propulsion Laboratory
         position: Undergraduate Researcher, Center for Climate Sciences
-        location: Pasadena, CA, USA
+        location: Pasadena, CA
         url: https://climatesciences.jpl.nasa.gov
         start_date: 2015-01-01
         end_date: 2016-01-01
@@ -102,7 +102,7 @@ cv:
 
       - institution: University of California, Irvine
         position: Undergraduate Researcher, Center for Environmental Biology
-        location: Irvine, CA, USA
+        location: Irvine, CA
         url: https://ceb.bio.uci.edu/intern-programs/ceb-internship/2014-15-interns/
         start_date: 2014-01-01
         end_date: 2015-01-01
