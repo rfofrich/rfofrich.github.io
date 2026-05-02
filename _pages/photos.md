@@ -4,8 +4,16 @@ title: Photography
 permalink: /photography/
 nav: true
 ---
+<style>
+  .post {
+    background-color: #000000 !important;
+  }
+  body {
+    background-color: #000000 !important;
+  }
+</style>
 
-Apart from life as a researcher, I am an amateur photographer with a passion for capturing the natural world. From landscapes, ecosystems, and the places where my life takes me. All photos are my own.
+Apart from life as a researcher, I am an amateur photographer with a passion for capturing the world. From landscapes, animals, cities, and ecosystems - wherever my life takes me. All photos are my own.
 
 <div class="row mt-4">
   {% assign photos = site.static_files | where_exp: "file", "file.path contains '/assets/img/photos/'" %}
