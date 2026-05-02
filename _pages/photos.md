@@ -20,7 +20,9 @@ nav: true
   }
 </style>
 
-Apart from life as a researcher, I am an amateur photographer with a passion for capturing the world. From landscapes, animals, cities, and ecosystems - wherever my life takes me. All photos are my own.
+Apart from research, I have a passion for photographing the world. From landscapes, animals, cities, and ecosystems - wherever my life happens to take me. 
+
+All photos are my own.
 
 <div class="row mt-4">
   {% assign photos = site.static_files | where_exp: "file", "file.path contains '/assets/img/photos/'" %}
