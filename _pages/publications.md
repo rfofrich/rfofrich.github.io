@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A selected list of my publications in reverse chronological order.
+description: A selected list of my publications in reverse chronological order. An asterisk indicates project mentee. 
 nav: true
 nav_order: 2
 ---
