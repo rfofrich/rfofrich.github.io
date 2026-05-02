@@ -22,6 +22,8 @@
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{v.$white-color};
   --global-highlight-color: #{v.$red-color-dark};
+  --global-navbar-bg-color: rgba(0, 105, 62, 0.8);
+  --global-navbar-text-color: #ffffff;
   --global-back-to-top-bg-color: rgba(
     #{color.channel(v.$black-color, "red", v.$space: rgb)},
     #{color.channel(v.$black-color, "green", v.$space: rgb)},
@@ -93,6 +95,8 @@ html[data-theme="dark"] {
   --global-distill-app-color: #{v.$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{v.$grey-900};
+  --global-navbar-bg-color: rgba(0, 105, 62, 0.8);
+  --global-navbar-text-color: #ffffff;
   --global-back-to-top-bg-color: rgba(
     #{color.channel(v.$white-color, "red", v.$space: rgb)},
     #{color.channel(v.$white-color, "green", v.$space: rgb)},
@@ -216,14 +220,15 @@ html[data-theme-setting="light"] {
  ******************************************************************************/
 
 .navbar {
+  background-color: var(--global-navbar-bg-color) !important;
   background-color: rgba(0, 105, 62, 0.8) !important;
 
   .nav-item .nav-link {
-    color: #ffffff !important;
+    color: var(--global-navbar-text-color) !important;
   }
 
   .navbar-brand {
-    color: #ffffff !important;
+    color: var(--global-navbar-text-color) !important;
   }
 
   .nav-item .nav-link:hover {
@@ -236,7 +241,7 @@ html[data-theme-setting="light"] {
   }
 
   #light-toggle {
-    color: #ffffff !important;
+    color: var(--global-navbar-text-color) !important;
   }
 
   #light-toggle:hover {
@@ -245,6 +250,6 @@ html[data-theme-setting="light"] {
 
   .fa-half-sun-moon::before,
   .fa-half-sun-moon::after {
-    color: #ffffff !important;
+    color: var(--global-navbar-text-color) !important;
   }
 }
