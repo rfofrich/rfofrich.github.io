@@ -7,7 +7,7 @@ subtitle: Postdoctoral Research Associate | Climate Impacts & Modeling Group
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Dartmouth College</p>
     <p>33 Tuck Mall </p>
