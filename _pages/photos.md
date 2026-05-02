@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 permalink: /photography/
-nav: false
+nav: true
 ---
 
 Apart from life as a researcher, I am an amateur photographer with a passion for capturing the natural world. From landscapes, ecosystems, and the places where my life takes me. All photos are my own.
