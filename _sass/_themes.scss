@@ -228,7 +228,15 @@ html[data-theme-setting="light"] {
     font-weight: normal !important;
   }
 
-  .navbar-brand strong {
+  .navbar-brand strong,
+  .navbar-brand span {
+    color: #ffffff !important;
+    font-weight: normal !important;
+  }
+
+  a.navbar-brand,
+  a.navbar-brand:hover,
+  a.navbar-brand:focus {
     color: #ffffff !important;
     font-weight: normal !important;
   }
@@ -257,5 +265,44 @@ html[data-theme-setting="light"] {
   .fa-half-sun-moon::before,
   .fa-half-sun-moon::after {
     color: #ffffff !important;
+  }
+
+  /* Mobile hamburger button */
+  .navbar-toggler {
+    border-color: #ffffff !important;
+    border: 1px solid #ffffff;
+    padding: 0.25rem 0.5rem;
+  }
+
+  .navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: #ffffff !important;
+    margin: 4px 0;
+  }
+
+  /* Mobile expanded menu */
+  @media (max-width: 576px) {
+    .navbar-collapse {
+      background-color: #00693e;
+      padding: 0.5rem 1rem;
+    }
+
+    .nav-item .nav-link {
+      color: #ffffff !important;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .nav-item:last-child .nav-link {
+      border-bottom: none;
+    }
   }
 }
