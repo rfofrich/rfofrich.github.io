@@ -5,11 +5,18 @@ permalink: /photography/
 nav: true
 ---
 <style>
-  .post {
-    background-color: #000000 !important;
-  }
   body {
     background-color: #000000 !important;
+  }
+  .post {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+  }
+  p {
+    color: #ffffff !important;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
   }
 </style>
 
