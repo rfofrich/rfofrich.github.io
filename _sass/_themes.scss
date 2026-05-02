@@ -12,8 +12,8 @@
   --global-text-color-light: #{v.$grey-color};
   // --global-theme-color: #{v.$purple-color};
   // --global-hover-color: #{v.$purple-color};
-  --global-theme-color: #00693E;
-  --global-hover-color: #00693E;
+  --global-theme-color: #00693e;
+  --global-hover-color: #00693e;
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-dark};
   --global-footer-text-color: #{v.$grey-color-light};
@@ -84,8 +84,8 @@ html[data-theme="dark"] {
   --global-text-color-light: #{v.$grey-color};
   // --global-theme-color: #{v.$cyan-color};
   // --global-hover-color: #{v.$cyan-color};
-  --global-theme-color: #00693E;
-  --global-hover-color: #00693E;
+  --global-theme-color: #00693e;
+  --global-hover-color: #00693e;
   --global-hover-text-color: #{v.$white-color};
   --global-footer-bg-color: #{v.$grey-color-light};
   --global-footer-text-color: #{v.$grey-color-dark};
@@ -209,4 +209,42 @@ html[data-theme-setting="light"] {
 
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
+}
+
+/*******************************************************************************
+ * Navbar
+ ******************************************************************************/
+
+.navbar {
+  background-color: rgba(0, 105, 62, 0.8) !important;
+
+  .nav-item .nav-link {
+    color: #ffffff !important;
+  }
+
+  .navbar-brand {
+    color: #ffffff !important;
+  }
+
+  .nav-item .nav-link:hover {
+    color: #c8e6c9 !important;
+  }
+
+  .nav-item.active .nav-link {
+    color: #ffffff !important;
+    font-weight: bold;
+  }
+
+  #light-toggle {
+    color: #ffffff !important;
+  }
+
+  #light-toggle:hover {
+    color: #c8e6c9 !important;
+  }
+
+  .fa-half-sun-moon::before,
+  .fa-half-sun-moon::after {
+    color: #ffffff !important;
+  }
 }
