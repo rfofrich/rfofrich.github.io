@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Postdoctoral Research Associate | Climate Impacts & Modeling Group
+subtitle: Postdoctoral Research Associate | Climate Modeling & Impacts Group
 
 profile:
   align: right
