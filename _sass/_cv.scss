@@ -275,3 +275,15 @@ ul.timeline li::before {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
+
+/* Restore padding for date column in experience/education */
+.card .list-group-item .date-column {
+  padding-left: 1rem !important;
+}
+
+/* Restore left padding for content column in experience/education */
+.card .list-group-item .col-xs-10,
+.card .list-group-item .col-sm-10,
+.card .list-group-item .col-md-10 {
+  padding-left: 1rem !important;
+}
