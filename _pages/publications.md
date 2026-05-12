@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-1. **R Fofrich**, A Chiu\*, and E Ordway. Climate and ecological constraints of cultivating bioenergy crops for climate mitigation in tropical regions. *PNAS Nexus* (in press). <a href="/assets/pdf/fofrich2026_pnas_nexus.pdf" target="_blank"><i class="fa-solid fa-file-pdf" style="color: #00693e;"></i></a>
+1. **R Fofrich**, A Chiu\*, and E Ordway. Climate and ecological constraints of cultivating bioenergy crops for climate mitigation in tropical regions. *PNAS Nexus* (2026). [DOI: 10.1093](https://academic.oup.com/pnasnexus/article/5/5/pgag123/8676257) <a href="/assets/pdf/fofrich2026_pnas_nexus.pdf" target="_blank"><i class="fa-solid fa-file-pdf" style="color: #00693e;"></i></a>
 
 2. **R Fofrich**, L Liebermann\*, F Moore, C Shearer, and SJ Davis. Ownership of Power Plants Stranded by Climate Mitigation. *Nature Sustainability* (2025). [DOI: 10.1038/s41893-025-01707-5](https://www.nature.com/articles/s41893-025-01707-5) <a href="/assets/pdf/fofrich2025_nature_sustainability.pdf" target="_blank"><i class="fa-solid fa-file-pdf" style="color: #00693e;"></i></a>
 
