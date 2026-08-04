@@ -1,10 +1,10 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
 description: Courses taught and assisted, with brief descriptions.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 <!-- pages/teaching.md -->
