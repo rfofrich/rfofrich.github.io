@@ -116,7 +116,7 @@ cv:
           - E Ordway
         publisher: "PNAS Nexus"
         releaseDate: 2026
-        url: "https://academic.oup.com/pnasnexus/article/5/5/pgag123/8676257"
+	url: "https://academic.oup.com/pnasnexus/article/5/5/pgag123/8676257"
         summary: ""
 
       - title: "Ownership of Power Plants Stranded by Climate Mitigation"
