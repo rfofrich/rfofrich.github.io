@@ -1,5 +1,5 @@
 ---
-title: "On Thin Ice: Climate Change and the Cryosphere"
+title: "Introduction to the Cryosphere: Climate Change and the Cryosphere"
 role: Teaching Assistant
 institution: Dept. of Earth System Science, UC Irvine
 years: "2020, 2021"
