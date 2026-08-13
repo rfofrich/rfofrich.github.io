@@ -141,9 +141,14 @@ blockquote {
  ******************************************************************************/
 
 .post-header {
-  padding-bottom: 0.25rem;
-  margin-bottom: 1.25rem;
-  border-bottom: 2px solid var(--global-divider-color);
+  .desc,
+  .post-description {
+    font-size: inherit;
+    line-height: 1.5;
+    padding-bottom: 0.25rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--global-divider-color);
+  }
 }
 
 .post,
