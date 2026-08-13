@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching & Mentoring
+title: Teaching
 permalink: /teaching/
 description: Teaching and mentoring in climate, Earth system science, energy, and environmental change.
 nav: true

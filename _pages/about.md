@@ -9,10 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+  <div style="text-align: center;">
     <p>Dartmouth College</p>
-    <p>33 Tuck Mall </p>
+    <p>33 Tuck Mall</p>
     <p>Hanover, NH 03755, USA</p>
     <p>robertfofrich@dartmouth.edu</p>
+  </div>
 
 institution:
   name: Dartmouth College
