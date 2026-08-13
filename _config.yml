@@ -97,6 +97,8 @@ bing_site_verification:
 collections:
   news:
     output: false
+  projects:
+    output: false
   teachings:
     output: false
  
