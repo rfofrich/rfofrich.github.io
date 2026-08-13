@@ -58,3 +58,30 @@ $(document).ready(function () {
     trigger: "hover",
   });
 });
+document.addEventListener("DOMContentLoaded", function () {
+  const dropdownToggle = document.querySelector("#navbarDropdown");
+  const dropdownMenu = document.querySelector(
+    '.dropdown-menu[aria-labelledby="navbarDropdown"]'
+  );
+
+  if (dropdownToggle && dropdownMenu) {
+    dropdownToggle.addEventListener(
+      "click",
+      function (event) {
+        if (window.innerWidth < 768) {
+          event.preventDefault();
+          event.stopPropagation();
+          event.stopImmediatePropagation();
+
+          dropdownMenu.classList.toggle("show");
+
+          dropdownToggle.setAttribute(
+            "aria-expanded",
+            dropdownMenu.classList.contains("show") ? "true" : "false"
+          );
+        }
+      },
+      true
+    );
+  }
+});
