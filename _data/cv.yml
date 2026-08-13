@@ -5,9 +5,10 @@ cv:
   location: Hanover, NH
   image: ""
   summary: >
-    I develop sustainable, equitable, and economically viable solutions to mitigate
-    the drivers and risks of anthropogenic climate change. My research spans climate
-    attribution, decarbonization, carbon removal solutions, and climate risk management.
+    I study how decisions about energy, infrastructure, land, and climate policy shape
+    climate risk, and where interventions can most effectively reduce it. My research
+    spans energy system decarbonization, climate intervention and carbon removal,
+    climate impacts, and attribution.
 
   social_networks:
     - network: LinkedIn
@@ -155,6 +156,18 @@ cv:
         url: "https://www.science.org/doi/10.1126/science.adt7820"
         summary: ""
 
+      - title: "Electricity Climate-Compatibility Index: Measuring Global Progress Towards Decarbonizing the Electricity Sector"
+        authors:
+          - A Alotaiq
+          - K Collet
+          - R Fofrich
+          - D Wallom
+          - M McCulloch
+        publisher: Journal of Economy and Technology
+        releaseDate: 2024
+        url: "https://www.sciencedirect.com/science/article/pii/S2949948824000234"
+        summary: ""
+
       - title: "Early Retirement of Power Plants in Climate Mitigation Scenarios"
         authors:
           - R Fofrich
@@ -193,24 +206,60 @@ cv:
         url: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017EF000542"
         summary: ""
 
+
+    Submitted & In Revision:
+      - title: "Climate change will expose current croplands to novel weather conditions"
+        authors:
+          - R Fofrich Navarro
+          - L Sloat
+          - NS Diffenbaugh
+          - F Moore
+          - ND Mueller
+          - SJ Davis
+        publisher: Environmental Research Letters
+        status: "In revision"
+        summary: ""
+
+      - title: "GDNat: a Global, Daily, High-Resolution, Natural-Forcing-Only Temperature Data Set for Attribution Research"
+        authors:
+          - R Fofrich Navarro
+          - KE McCusker
+          - SB Malevich
+          - RE Kopp
+        publisher: Earth System Science Data
+        status: "Submitted"
+        summary: ""
+
+      - title: "Global Change Impacts on the Dja Reserve: Land-Use and Climate Change"
+        authors:
+          - E Ordway
+          - B Egoh
+          - S Biswas
+          - K Dutko
+          - V Deblauwe
+          - R Fofrich
+          - L Ayompe
+          - H Souter
+          - E Wesner
+          - S Worden
+        status: "Submitted"
+        summary: ""
+
     Skills:
       - name: Research
-        keywords: "Expertise in climate change mitigation pathways, carbon accounting, decarbonization strategies, carbon offset programs, and measuring emissions from energy and agriculture infrastructure. Experience with remote sensing and in situ carbon monitoring (e.g., Climate Trace, Carbon Mapper, OCO-2, TROPOMI-SIF), natural CO2 fluxes and storage, net-zero strategies, and climate risk assessment. Experienced in leading cross-disciplinary, policy-relevant research projects that align with global decarbonization goals."
+        keywords: "Climate change mitigation and risk; energy-system decarbonization; committed emissions and stranded assets; climate attribution; carbon removal; climate impacts on agriculture and ecosystems; climate finance and accountability."
 
-      - name: Data Analysis
-        keywords: "Advanced proficiency in MATLAB, Python (e.g., Pandas, NumPy, SciPy, xclim, Dask, xarray), MS Excel, and ArcGIS. Demonstrated expertise in managing large datasets, spatially analyzing emissions data, and applying statistical and geospatial methods to monitor compliance with climate change mitigation scenarios. Skilled in processing satellite observations, emissions inventories, and site-specific data to identify pollution sources and support regulatory frameworks."
+      - name: Quantitative Methods
+        keywords: "Python (Pandas, NumPy, SciPy, xarray, Dask, xclim), MATLAB, ArcGIS/GIS, statistical and geospatial analysis, Monte Carlo uncertainty analysis, climate-model and integrated-assessment-model analysis."
 
-      - name: Writing
-        keywords: "Experienced in authoring peer-reviewed articles, technical reports, and public-facing research briefs. Skilled at synthesizing and summarizing complex scientific findings for both expert and non-expert audiences. Committed to scientific accuracy, transparency, and reproducibility."
+      - name: Data
+        keywords: "Earth system and climate-model output, reanalysis, remote sensing, emissions inventories, asset-level energy and finance databases, land-use and ecological datasets."
 
-      - name: Presentation
-        keywords: "Proficient in developing engaging and accessible visual content using Python, MATLAB, Adobe Illustrator, and MS PowerPoint. Demonstrated ability to convey complex climate science to diverse audiences, including policymakers, stakeholders, and interdisciplinary teams."
+      - name: Scientific Communication
+        keywords: "Peer-reviewed publications, technical reports, public-facing research communication, interdisciplinary collaboration, and presentations to scientific, policy, and community audiences."
 
       - name: Languages
-        keywords: "Fluent in English and Spanish"
-
-      - name: Other
-        keywords: "Extensive experience mentoring undergraduate, graduate, and postdoctoral researchers. Proven ability to lead collaborative research teams across institutions and disciplines. Comfortable interacting with media, policymakers, external partners, and community stakeholders. Skilled in project coordination and stakeholder engagement. Experienced in authoring research grants."
+        keywords: "English and Spanish (fluent)"
 
     Awards:
       - title: UC President's Postdoctoral Fellowship
@@ -371,13 +420,13 @@ cv:
 
     References:
       - name: "Justin Mankin, Ph.D."
-        reference: "Professor, Department of Geography, Dartmouth College. Justin.S.Mankin@dartmouth.edu"
+        reference: "Professor, Department of Geography, Dartmouth College."
 
       - name: "Steven J. Davis, Ph.D."
-        reference: "Professor, Department of Earth System Science, Stanford University. sjdavis@stanford.edu"
+        reference: "Professor, Department of Earth System Science, Stanford University." 
 
       - name: "Robert Kopp, Ph.D."
-        reference: "Professor, Department of Earth and Planetary Sciences, Rutgers University. robert.kopp@rutgers.edu"
+        reference: "Professor, Department of Earth and Planetary Sciences, Rutgers University."
 
       - name: "Elsa Ordway, Ph.D."
-        reference: "Assistant Professor, Department of Ecology and Evolutionary Biology, UCLA. elsaordway@ucla.edu"
+        reference: "Assistant Professor, Department of Ecology and Evolutionary Biology, UCLA."

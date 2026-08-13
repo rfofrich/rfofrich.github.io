@@ -4,5 +4,5 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - https://github.com/ClimateImpactLab/gdnat
-  - https://github.com/rfofrich/Ownership-of-power-plants-stranded-by-climate-mitigation
+  - ClimateImpactLab/gdnat
+  - rfofrich/Ownership-of-power-plants-stranded-by-climate-mitigation

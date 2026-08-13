@@ -3,7 +3,7 @@ layout: page
 title: Photography
 permalink: /photography/
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 
 <style>

@@ -1,34 +1,59 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"mankin":
+  - firstname: ["Justin", "J"]
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"davis":
+  - firstname: ["Steven", "Steven J.", "S. J.", "SJ"]
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"ordway":
+  - firstname: ["Elsa", "Elsa M.", "E. M.", "E"]
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kopp":
+  - firstname: ["Robert", "Robert E.", "R. E.", "RE"]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"mccusker":
+  - firstname: ["Kelly", "Kelly E.", "K. E.", "KE"]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"malevich":
+  - firstname: ["Steven", "Steven B.", "S. B.", "SB"]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"shearer":
+  - firstname: ["Christine", "C."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"tong":
+  - firstname: ["Dan", "D."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"moore":
+  - firstname: ["Frances", "F."]
+
+"liebermann":
+  - firstname: ["Lauren", "L."]
+
+"chiu":
+  - firstname: ["Alcen", "A."]
+
+"sloat":
+  - firstname: ["Lindsey", "L."]
+
+"diffenbaugh":
+  - firstname: ["Noah", "Noah S.", "N. S.", "NS"]
+
+"mueller":
+  - firstname: ["Nathaniel", "Nathaniel D.", "N. D.", "ND"]
+
+"seibel":
+  - firstname: ["Shane", "S."]
+
+"bazilian":
+  - firstname: ["Morgan", "Morgan D.", "M. D.", "MD"]
+
+"alotaiq":
+  - firstname: ["Abdulrahman", "A."]
+
+"collet":
+  - firstname: ["Katherine", "K."]
+
+"wallom":
+  - firstname: ["David", "D."]
+
+"mcculloch":
+  - firstname: ["Malcolm", "M."]

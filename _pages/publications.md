@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: A selected list of my publications in reverse chronological order. An asterisk indicates project mentee.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->

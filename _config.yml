@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
-title: blank
+ 
+title: Robert Fofrich
 first_name: Robert
 middle_name: 
 last_name: Fofrich
@@ -13,103 +13,97 @@ institution:
   logo: D-Pine_RGB.png
   dark_logo: D-Pine_Black.png
   website: https://jsmankin.github.io
-
+ 
 social_links:
   linkedin: https://www.linkedin.com/in/robertfofrich/
   github: https://github.com/rfofrich
   google_scholar: https://scholar.google.com/citations?user=5_uvPIIAAAAJ&hl=en
-  orcid: https://orcid.org/my-orcid?orcid=0000-0001-6418-3692
+  orcid: https://orcid.org/0000-0001-6418-3692
   researchgate: https://www.researchgate.net/profile/Robert-Fofrich-2
   bluesky: https://bsky.app/profile/robertfofrich.bsky.social
-
+ 
 address: 33 Tuck Mall, Hanover, NH 03755, USA
 email: robertfofrich@dartmouth.edu
 
 description: >
-  Robert Fofrich is a postdoctoral research associate at Dartmouth College studying
-  energy system decarbonization, committed emissions and stranded assets, and the
-  attribution of climate damages.
-keywords: "Robert Fofrich, Robert Fofrich Navarro, climate scientist, energy systems, decarbonization, stranded assets, committed emissions, climate attribution, carbon removal, Earth system science, Dartmouth College, University of California, Los Angeles, Rutgers University, University of California, Irvine, UC President's Fellowship, UC PPFP, Department of Geography, Department of Earth & Planetary Sciences, Climate Impact Lab, Climate Modeling and Impacts Group, climate modeling, climate impact analysis, Ecology and Evolutionary Biology, Institute of the Environment and Sustainability, Agricultural Systems, climate change, climate change mitigation, climate change adaptation"
+  Robert Fofrich is a climate scientist and postdoctoral research associate at Dartmouth College
+  studying how decisions about energy, infrastructure, land, and climate policy shape climate risk, and where interventions can most effectively reduce it.
+keywords: "Robert Fofrich, Robert Fofrich Navarro, climate scientist, Earth system scientist, climate change, climate risk, climate mitigation, climate attribution, climate impacts, climate damages, energy systems, energy transition, decarbonization, committed emissions, stranded assets, carbon removal, climate intervention, climate finance, climate accountability, climate modeling, integrated assessment models, remote sensing, agricultural climate impacts, Dartmouth College, Climate Impact Lab"
 lang: en
 icon: D-Pine_RGB.png
+
 
 url: https://rfofrich.github.io
 baseurl: ""
 last_updated: false
 impressum_path:
 back_to_top: true
-
+ 
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
-
+ 
 repo_theme_light: default
 repo_theme_dark: dark
 repo_trophies:
   enabled: true
   theme_light: flat
   theme_dark: gitdimmed
-
+ 
 external_services:
   github_readme_stats_url: https://github-readme-stats.vercel.app
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
-
+ 
 # -----------------------------------------------------------------------------
 # Layout & Blog
 # -----------------------------------------------------------------------------
-
+ 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false
-socials_in_search: false
+search_enabled: true
+socials_in_search: true
 posts_in_search: false
-bib_search: false
+bib_search: true
 max_width: 930px
-
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+ 
+blog_name: Notes
+blog_description: Occasional writing on energy, emissions, and climate accountability
 permalink: /blog/:year/:title/
 lsi: false
-
+ 
 pagination:
   enabled: true
-
+ 
 related_blog_posts:
   enabled: true
   max_related: 5
-
+ 
 # -----------------------------------------------------------------------------
 # Analytics
 # -----------------------------------------------------------------------------
-
+ 
 google_analytics: G-9C18VP2YFH
 cronitor_analytics:
 pirsch_analytics:
 openpanel_analytics:
-
+ 
 google_site_verification: -ws2olRiFkA0MROGMtQgSln31NNjyy2YzvF018YUfnM
 bing_site_verification:
-
+ 
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-
+ 
 collections:
-  books:
-    output: true
   news:
-    defaults:
-      layout: post
-    output: true
-  projects:
-    output: true
+    output: false
   teachings:
-    output: true
-
+    output: false
+ 
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
-
+ 
 markdown: kramdown
 highlighter: rouge
 kramdown:
@@ -121,7 +115,7 @@ kramdown:
     block:
       line_numbers: false
       start_line: 1
-
+ 
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
@@ -134,7 +128,7 @@ keep_files:
   - CNAME
   - .nojekyll
   - BingSiteAuth.xml
-
+ 
 plugins:
   - jekyll-3rd-party-libraries
   - jekyll-archives-v2
@@ -156,11 +150,11 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-
+ 
 # -----------------------------------------------------------------------------
 # Third-party libraries (must match plugin jekyll-3rd-party-libraries)
 # -----------------------------------------------------------------------------
-
+ 
 third_party_libraries:
   download: false
   bootstrap-table:
@@ -180,14 +174,14 @@ third_party_libraries:
     version: "3.2.2"
     url:
       js: "https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"
-
+ 
 # -----------------------------------------------------------------------------
 # Scholar
 # -----------------------------------------------------------------------------
-
+ 
 scholar:
-  last_name: [Fofrich Navarro]
-  first_name: [Robert]
+  last_name: [Fofrich, Fofrich Navarro]
+  first_name: [Robert, R, Robert A., R. A.]
   style: apa
   locale: en
   source: /_bibliography/
@@ -201,12 +195,23 @@ scholar:
   query: "@*"
   group_by: year
   group_order: descending
-
-
+ 
+# -----------------------------------------------------------------------------
+# Publication badges
+# -----------------------------------------------------------------------------
+# NOTE: verify this key against your _layouts/bib.liquid before relying on it.
+# Older al-folio versions use a flat `enable_publication_badges: true` plus a
+# separate `altmetric_badge_type:` key instead of the nested form below.
+ 
+enable_publication_badges:
+  altmetric: true
+  dimensions: true
+  google_scholar: true
+ 
 # -----------------------------------------------------------------------------
 # Resume JSON
 # -----------------------------------------------------------------------------
-
+ 
 plugins_config:
   jekyll-get-json:
     - data: resume
