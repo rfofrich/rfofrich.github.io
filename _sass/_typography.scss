@@ -140,8 +140,9 @@ blockquote {
  * Page typography
  ******************************************************************************/
 
-.post-header .desc {
-  font-size: 1.1rem;
+.post-header .desc,
+.post-header .post-description {
+  font-size: inherit;
   line-height: 1.5;
 }
 
