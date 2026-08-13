@@ -20,7 +20,7 @@ My teaching experience spans core areas of Earth system and environmental scienc
 <div class="teaching">/Users/robertfofrich/Documents/GitHub/rfofrich.github.io/_data/citations.yml
 {% assign sorted_teachings = site.teachings | sort: "order" %}
 {% for course in sorted_teachings %}
-  <div class="teaching-entry" style="margin-bottom: 2rem;">
+  <div class="teaching">
     <h3>{{ course.title }}</h3>
     <p style="margin-bottom: 0.5rem;"><em>{{ course.role }}</em>, {{ course.institution }} ({{ course.years }})</p>
     <p>{{ course.content }}</p>
