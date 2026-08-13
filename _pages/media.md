@@ -3,7 +3,7 @@ layout: page
 permalink: /media/
 title: Media
 description: Press coverage, public engagement, and selected talks.
-nav: true
+nav: false
 nav_order: 4
 ---
 

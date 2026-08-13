@@ -3,7 +3,7 @@ layout: page
 title: Service
 permalink: /service/
 description: Academic service, professional leadership, and community engagement.
-nav: true
+nav: false
 nav_order: 5
 ---
 
