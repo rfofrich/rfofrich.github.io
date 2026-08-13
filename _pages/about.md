@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Postdoctoral Research Associate | Climate Modeling & Impacts Group
+subtitle: Climate Scientist | Postdoctoral Research Associate
 
 profile:
   align: right
@@ -25,7 +25,7 @@ social_links:
   linkedin: https://www.linkedin.com/in/robertfofrich/
   github: https://github.com/rfofrich
   google_scholar: https://scholar.google.com/citations?user=5_uvPIIAAAAJ&hl=en
-  orcid: https://orcid.org/my-orcid?orcid=0000-0001-6418-3692
+  orcid: https://orcid.org/0000-0001-6418-3692
   researchgate: https://www.researchgate.net/profile/Robert-Fofrich-2
   bluesky: https://bsky.app/profile/robertfofrich.bsky.social
 
@@ -45,25 +45,30 @@ latest_posts:
 
 I am a Postdoctoral Research Associate in the [Department of Geography](https://geography.dartmouth.edu/)
 at Dartmouth College, where I work with [Justin Mankin](https://jsmankin.github.io/)
-in the Climate Modeling and Impacts Group. I study how fast energy systems can
-decarbonize, where that transition stands, and who is accountable for the damages
-that emissions cause.
+in the Climate Modeling and Impacts Group. I study **how decisions about energy,
+infrastructure, land, and climate policy shape climate risk, and where interventions
+can most effectively reduce it**.
 
-My current research attributes climate damages to the institutions that
-enable carbon infrastructure. It merges asset-level data with
-multi-tier ownership records and adapts carbon accounting standards to
-assign damages to project financiers rather than to operators alone. Earlier work
-quantified the early retirements that climate targets require of the global power
-fleet, identified who owns the plants that mitigation strands, and mapped the
-climate and ecological limits on land-based carbon removal.
+My research spans **energy system decarbonization, climate intervention and carbon
+removal, and climate impacts and attribution**. My current work traces climate damages
+beyond emitting facilities to the financial institutions that enable carbon
+infrastructure. Across these areas, I combine Earth system science with energy,
+economic, ecological, and geospatial data to connect global climate goals to the
+industries, institutions, landscapes, and populations where decisions are made. 
 
 I completed my Ph.D. in Earth System Science at the University of California, Irvine,
 with [Steven J. Davis](https://earth.stanford.edu/people/steven-davis). Before
-Dartmouth I was a UC President's Postdoctoral Fellow at UCLA with
-[Elsa Ordway](https://sites.lifesci.ucla.edu/eeb-ordway/), and a postdoctoral
+Dartmouth, I was a **UC President's Postdoctoral Fellow at UCLA** with
+[Elsa Ordway](https://sites.lifesci.ucla.edu/eeb-ordway/) and a postdoctoral
 researcher at Rutgers University with [Robert Kopp](https://www.bobkopp.net/) and
-Kelly McCusker through the Climate Impact Lab. My work has appeared in *Nature
-Sustainability*, *Science*, *PNAS Nexus*, and *Environmental Research Letters*.
+Kelly McCusker through the [Climate Impact Lab](https://impactlab.org/team/). My work has appeared in *Nature Sustainability*, *Science*, *PNAS Nexus*, and *Environmental Research Letters*.
 
-I mentor undergraduate and graduate researchers, and I work with policy and community
-audiences on energy and climate accountability. I am fluent in English and Spanish.
+I mentor undergraduate and graduate researchers and engage with scientific, policy,
+and community audiences on climate and energy challenges. I am fluent in English and Spanish.
+
+## Selected Honors & Fellowships
+
+- **UC President's Postdoctoral Fellowship**, University of California, 2023–2025
+- **IDRE Postdoctoral Fellowship**, UCLA, 2023
+- **Rose Hills Foundation Science & Engineering Fellowship**, 2020–2021
+- **NSF Ridge to Reef Research Traineeship**, 2017–2018
