@@ -40,6 +40,12 @@ body.sticky-bottom-footer {
   }
 }
 
+@media (min-width: 768px) {
+  .profile {
+    transform: translateX(50px);
+  }
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
