@@ -7,21 +7,21 @@ subtitle: Climate Scientist | Postdoctoral Research Associate
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: true
   more_info: >
-  <div style="text-align: center;">
-    <p>Dartmouth College</p>
-    <p>33 Tuck Mall</p>
-    <p>Hanover, NH 03755, USA</p>
-    <p>robertfofrich@dartmouth.edu</p>
-  </div>
+    <div style="text-align: center;">
+      <p>Dartmouth College</p>
+      <p>33 Tuck Mall</p>
+      <p>Hanover, NH 03755, USA</p>
+      <p>robertfofrich@dartmouth.edu</p>
+    </div>
 
 institution:
   name: Dartmouth College
   url: https://www.dartmouth.edu
   logo: D-Pine_RGB.png
   dark_logo: D-Pine_Black.png
-  website: https://jsmankin.github.io
+  website: https://www.dartmouth.edu
 
 social_links:
   linkedin: https://www.linkedin.com/in/robertfofrich/
