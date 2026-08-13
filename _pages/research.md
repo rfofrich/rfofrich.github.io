@@ -4,7 +4,6 @@ permalink: /research/
 title: Research
 description: >
   My research develops data-driven approaches to identify where climate risks originate, who bears them, and where interventions can most effectively reduce them.
----
 nav: true
 nav_order: 2
 ---
