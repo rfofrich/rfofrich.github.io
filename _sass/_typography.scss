@@ -140,10 +140,10 @@ blockquote {
  * Page typography
  ******************************************************************************/
 
-.post-header .desc,
-.post-header .post-description {
-  font-size: inherit;
-  line-height: 1.5;
+.post-header {
+  padding-bottom: 1.25rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--global-divider-color);
 }
 
 .post,
