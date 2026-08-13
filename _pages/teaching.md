@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-I teach students to use **scientific evidence and quantitative tools to understand complex environmental problems**. My goal is not simply to communicate scientific concepts, but to help students learn how to evaluate evidence, test competing explanations, work with real data, and communicate what they find.
+I teach students to use **scientific evidence, critical thinking, and quantitative tools to understand complex environmental problems**. My goal is not simply to communicate scientific concepts, but to help students learn how to evaluate evidence, test competing explanations, work with real data, and communicate what they find.
 
 I aim to make Earth and climate science tangible without sacrificing rigor. I connect physical and ecological processes to contemporary challenges in climate, energy, food, water, and environmental change, while creating opportunities for students to develop the confidence and independence to tackle unfamiliar problems. Wherever possible, I emphasize authentic datasets, quantitative analysis, scientific literature, and problems for which the answers are not known in advance.
 
@@ -17,10 +17,10 @@ I aim to make Earth and climate science tangible without sacrificing rigor. I co
 
 My teaching experience spans core areas of Earth system and environmental science, including climate, ecosystems, sustainable energy, food and water systems, geographic information systems, and natural climate solutions.
 
-<div class="teaching">/Users/robertfofrich/Documents/GitHub/rfofrich.github.io/_data/citations.yml
+<div class="teaching">
 {% assign sorted_teachings = site.teachings | sort: "order" %}
 {% for course in sorted_teachings %}
-  <div class="teaching">
+  <div class="teaching-entry" style="margin-bottom: 2rem;">
     <h3>{{ course.title }}</h3>
     <p style="margin-bottom: 0.5rem;"><em>{{ course.role }}</em>, {{ course.institution }} ({{ course.years }})</p>
     <p>{{ course.content }}</p>
@@ -28,7 +28,7 @@ My teaching experience spans core areas of Earth system and environmental scienc
 {% endfor %}
 </div>
 
-I have also received formal pedagogical training in Earth System Science and Ecology at UC Irvine, with an emphasis on evidence-based teaching and evaluation with the goal of improving instructional practice.
+In addition to the courses I've taught, I have received formal pedagogical training in Earth System Science and Ecology at UC Irvine, with an emphasis on evidence-based teaching and evaluation with the goal of improving instructional practice.
 
 ---
 
@@ -36,7 +36,7 @@ I have also received formal pedagogical training in Earth System Science and Eco
 
 My future teaching will connect the physical science of climate change with the technological, ecological, economic, and societal systems that shape both its impacts and potential solutions.
 
-**Climate Change: Causes, Risks, and Solutions**  
+**Introduction to Climate Change: Evaluating Drivers and Solutions**  
 An interdisciplinary course connecting the physical climate system with impacts, adaptation, mitigation, and climate policy.
 
 **Energy Systems and Decarbonization**  
@@ -45,12 +45,12 @@ A quantitative examination of global energy systems, infrastructure, technologic
 **Climate Attribution and Risk**  
 A data-driven course on detecting and attributing climate change, extreme events, impacts, vulnerability, and emerging applications of attribution science.
 
-**Carbon Removal and Climate Intervention**  
+**Sustainable Land-Use, Carbon Removal and Climate Intervention**  
 A comparative examination of natural and engineered climate interventions, emphasizing biophysical constraints, durability, scalability, resource demands, and ecological trade-offs.
 
 I am also prepared to teach courses in **Earth system science, sustainable food and water systems, GIS and geospatial analysis, natural climate solutions, and environmental data science**.
 
-Across these courses, I would have students work directly with climate and environmental datasets, conduct modeling and spatial analyses, critically evaluate the scientific literature, and communicate their reasoning to both technical and non-technical audiences.
+Across these courses, I would have students work directly with climate and environmental datasets, conduct modeling and spatial analyses in Python or QGIS, critically evaluate the scientific literature, and communicate their reasoning to both technical and non-technical audiences.
 
 ---
 
@@ -78,6 +78,4 @@ Ph.D. student, Rutgers University · 2022–2023
 Undergraduate researcher, UC Irvine · 2021–2022  
 Research on the ownership and financial exposure of power plants stranded by climate mitigation; coauthor, *Nature Sustainability*.
 
-In addition to research supervision, I have mentored undergraduate and graduate students through formal and informal mentoring programs at UC Irvine and UCLA.
-
-Ultimately, I want students and mentees to leave able to **ask better questions, evaluate evidence, solve unfamiliar problems, and communicate why their work matters**.
+In addition to research supervision, I have mentored undergraduate and graduate students through formal and informal mentoring programs at UC Irvine and UCLA. Ultimately, I want students and mentees to leave able to **ask better questions, evaluate evidence, solve unfamiliar problems, and communicate why their work matters**.

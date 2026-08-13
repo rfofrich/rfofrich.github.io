@@ -70,7 +70,7 @@ and community audiences on climate and energy challenges. I am fluent in English
 
 ## Selected Honors & Fellowships
 
-- **UC President's Postdoctoral Fellowship**, University of California, 2023–2025
-- **IDRE Postdoctoral Fellowship**, UCLA, 2023
-- **Rose Hills Foundation Science & Engineering Fellowship**, 2020–2021
-- **NSF Ridge to Reef Research Traineeship**, 2017–2018
+- **[UC President's Postdoctoral Fellowship](https://ppfp.ucop.edu/info/)**, University of California, 2023–2025
+- **[IDRE Postdoctoral Fellowship](https://idre.ucla.edu/idre-funding)**, UCLA, 2023
+- **[Rose Hills Foundation Science & Engineering Fellowship](https://grad.uci.edu/fellowships/rose-hills-foundation-science-engineering-scholarship-graduate-school-program/)**, 2020–2021
+- **[NSF Ridge to Reef Research Traineeship](https://r2r.bio.uci.edu/ridge-reef-r2r-uc-irvine/)**, 2017–2018
