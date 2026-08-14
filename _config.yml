@@ -3,9 +3,17 @@
 # -----------------------------------------------------------------------------
  
 title: Robert Fofrich
+seo_title: Robert Fofrich | Climate & Earth System Scientist
+
 first_name: Robert
-middle_name: 
+middle_name:
 last_name: Fofrich
+
+alternate_names:
+  - Robert A. Fofrich
+  - Robert Alexander Fofrich
+  - Robert Fofrich Navarro
+
 position: Postdoctoral Research Associate
 institution:
   name: Dartmouth College
@@ -26,15 +34,23 @@ address: 33 Tuck Mall, Hanover, NH 03755, USA
 email: robertfofrich@dartmouth.edu
 
 description: >
-  Robert Fofrich is a climate scientist and postdoctoral research associate at Dartmouth College
+  Robert Fofrich is a climate scientist and Earth system scientist at Dartmouth College
   studying how decisions about energy, infrastructure, land, and climate policy shape climate risk, and where interventions can most effectively reduce it.
+
 keywords: "Robert Fofrich, Robert Fofrich Navarro, climate scientist, Earth system scientist, climate change, climate risk, climate mitigation, climate attribution, climate impacts, climate damages, energy systems, energy transition, decarbonization, committed emissions, stranded assets, carbon removal, climate intervention, climate finance, climate accountability, climate modeling, integrated assessment models, remote sensing, agricultural climate impacts, Dartmouth College, Climate Impact Lab"
+
 lang: en
 icon: D-Pine_RGB.png
 
+serve_og_meta: true
+serve_schema_org: true
+enable_google_verification: true
+
+og_image: https://rfofrich.github.io/assets/img/prof_pic.jpg
 
 url: https://rfofrich.github.io
 baseurl: ""
+
 last_updated: false
 impressum_path:
 back_to_top: true

@@ -2,7 +2,9 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Climate Scientist | Postdoctoral Research Associate
+subtitle: Climate & Earth System Scientist | Postdoctoral Research Associate
+description: Robert Fofrich is a climate and Earth system scientist at Dartmouth College studying energy systems, decarbonization, carbon removal, climate impacts, attribution, and climate risk.
+
 
 profile:
   align: right
