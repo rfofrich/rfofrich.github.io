@@ -194,12 +194,19 @@
  ******************************************************************************/
 
 @media (max-width: 767.98px) {
+  .navbar {
+    border-bottom: none !important;
+  }
+
   .navbar .navbar-collapse,
   .navbar .navbar-collapse.show,
   .navbar .navbar-collapse.collapsing,
   #navbarNav,
   #navbarNav.show {
     background-color: #00693e !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
   }
 
   .navbar .navbar-collapse .navbar-nav .nav-link,
@@ -214,16 +221,32 @@
   #navbarNav .nav-link:hover,
   #navbarNav .nav-link:focus {
     color: #ffffff !important;
+    outline: none !important;
+    box-shadow: none !important;
   }
 
   .navbar .navbar-collapse .dropdown-menu,
   #navbarNav .dropdown-menu {
     background-color: #00693e !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
   }
 
   .navbar .navbar-collapse .dropdown-item,
   #navbarNav .dropdown-item {
     color: #ffffff !important;
     background-color: #00693e !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  .navbar-toggler,
+  .navbar-toggler:focus,
+  .navbar-toggler:active {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
   }
 }
