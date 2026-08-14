@@ -8,7 +8,7 @@ description: Robert Fofrich is a climate and Earth system scientist at Dartmouth
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: robert-fofrich.jpg
   image_circular: true
   more_info: >
     <div style="text-align: center;">
