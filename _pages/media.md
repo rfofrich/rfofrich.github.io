@@ -7,7 +7,7 @@ nav: false
 nav_order: 4
 ---
 
-# Press coverage
+## Press coverage
 
 ### Climate and ecological constraints of cultivating bioenergy crops for climate mitigation in tropical regions, *PNAS Nexus* (2026)
 
@@ -41,7 +41,9 @@ nav_order: 4
 - [India's coal plants are being shelved at a rapid pace](https://www.eenews.net/articles/indias-coal-plants-are-being-shelved-at-a-rapid-pace/), *E&E News*, 2017
 - [India's proposed coal power plants a hurdle to meeting Paris treaty targets](https://www.hindustantimes.com/india-news/india-s-proposed-coal-power-plants-a-hurdle-to-meeting-paris-treaty-targets/story-fblYdDxvZvcLUuQmgdVNyM.html), *Hindustan Times*, 2017
 
-# Invited talks and keynotes
+---
+
+## Invited talks and keynotes
 
 - **Quantifying the Drivers and Damages of Climate Change**, invited seminar, Department of Environmental Science, University of California, Riverside, 2026.
 - **Pursuing a Postdoc Proactively**, invited talk, Virginia Tech, 2025.
@@ -53,12 +55,16 @@ nav_order: 4
 - **Infrastructural Inertia in Energy-Emissions Scenarios**, invited talk, UC Office of the President Global Climate Leadership Council Annual Meeting, 2019.
 - **What Community College Can Do For You**, invited talk, Creative Edge Conference, West Los Angeles College, 2018.
 
-# Public talks and recorded events
+---
+
+## Public talks and recorded events
 
 - **Navigating Climate Change Mitigation and Economic Transition Risks**, UCLA Institute for Digital Research and Education, October 25, 2024. [Event](https://idre.ucla.edu/calendar-event/navigating-climate-change-mitigation-and-economic-transition-risks) · [Video](https://www.youtube.com/watch?v=Vl2OjVhr0Sk)
 - **Challenges to Mitigating Climate Change Drivers and Associated Risks of Surpassing Lower Emission Targets**, UCLA Institute for Digital Research and Education, May 31, 2024. [Event](https://idre.ucla.edu/calendar-event/robert-fofrich-may-31-2024/)
 
-# Professional and institutional news
+---
+
+## Professional and institutional news
 
 - [UC to keep postdoctoral hiring incentive program it previously said would be cut](https://dailybruin.com/2025/11/19/uc-to-keep-postdoctoral-hiring-incentive-program-it-previously-said-would-be-cut), *Daily Bruin*, November 19, 2025
 - [NPA Appoints Engagement Committee Leadership](https://www.nationalpostdoc.org/news/695724/NPA-Appoints-Engagement-Committee-Leadership.htm), National Postdoctoral Association, March 17, 2025
