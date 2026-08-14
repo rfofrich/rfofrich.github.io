@@ -13,7 +13,6 @@ nav_order: 4
 
 - [Bioenergy constraints in the tropics](https://www.eurekalert.org/news-releases/1127435), *EurekAlert!*, May 12, 2026
 - [Carbon-capture technology could trigger the deforestation it was designed to prevent](https://phys.org/news/2026-05-carbon-capture-technology-trigger-deforestation.html), *Phys.org*, May 2026
-- [Carbon Removal Weekly Summary](https://carbonremovalupdates.substack.com/p/carbon-removal-weekly-summary-11-923), *Carbon Removal Updates*, May 2026
 
 ### Ownership of power plants stranded by climate mitigation, *Nature Sustainability* (2025)
 
