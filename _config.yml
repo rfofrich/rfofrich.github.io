@@ -45,6 +45,7 @@ icon: D-Pine_RGB.png
 serve_og_meta: true
 serve_schema_org: true
 enable_google_verification: true
+google_site_verification: yxf8KS89_xMgLKhvT30wIZziSAOFu9_o8M0guvv0pJE
 
 og_image: https://rfofrich.github.io/assets/img/prof_pic.jpg
 
