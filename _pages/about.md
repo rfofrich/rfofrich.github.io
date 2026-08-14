@@ -45,11 +45,7 @@ latest_posts:
   limit: 3 # leave blank to include all blog posts
 ---
 
-I am a Postdoctoral Research Associate in the [Department of Geography](https://geography.dartmouth.edu/)
-at Dartmouth College, where I work with [Justin Mankin](https://jsmankin.github.io/)
-in the Climate Modeling and Impacts Group. I study **how decisions about energy,
-infrastructure, land, and climate policy shape climate risk, and where interventions
-can most effectively reduce it**.
+I am a Postdoctoral Research Associate at [Dartmouth College](www.dartmouth.edu), where I work with [Justin Mankin](https://jsmankin.github.io/) in the Climate Modeling and Impacts Group. I study **how decisions about energy, infrastructure, land, and climate policy shape climate risk, and where strategic interventions can most effectively reduce it**.
 
 My research spans **energy system decarbonization, climate intervention and carbon
 removal, and climate impacts and attribution**. My current work traces climate damages
@@ -66,7 +62,7 @@ researcher at Rutgers University with [Robert Kopp](https://www.bobkopp.net/) an
 Kelly McCusker through the [Climate Impact Lab](https://impactlab.org/team/). My work has appeared in *Nature Sustainability*, *Science*, *PNAS Nexus*, and *Environmental Research Letters*.
 
 I mentor undergraduate and graduate researchers and engage with scientific, policy,
-and community audiences on climate and energy challenges. I am fluent in English and Spanish.
+and community audiences on climate and energy challenges.
 
 ## Selected Honors & Fellowships
 
