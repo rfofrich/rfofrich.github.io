@@ -10,9 +10,9 @@ nav_order: 2
 
 The urgency of climate change in a world with limited resources creates a fundamental allocation problem: **where should we act first, and which levers will deliver the greatest benefit?**
 
-Some climate risk is already embedded in past decisions, including constructed infrastructure, committed capital, and historical emissions. The rest depends on choices we are still making about energy, land, technology, and climate policy. Those choices also shape who pays for mitigation, who benefits from it, and who remains exposed to climate damages.
+Some climate risk is already embedded in past decisions, including constructed infrastructure, committed capital, and historical emissions. The rest depends on choices we are still making about energy, land, technology, and climate policy. Those choices also shape who pays for mitigation, who benefits from it, and who remains exposed to ongoing and future damages.
 
-My research connects these pieces. I study **the drivers of climate change, how risks and responsibilities are distributed, and where intervention can reduce them most effectively**. I combine Earth system science with energy, economic, ecological, and geospatial data to move from global climate targets toward the industries, institutions, landscapes, and populations where decisions are actually made.
+My research connects these pieces. I study **the drivers of climate change, how risks and responsibilities have evolved and are distributed, and where intervention can reduce them most effectively**. I combine Earth system science with energy, economic, ecological, and geospatial data to move from global climate projections toward the industries, institutions, landscapes, and populations where decisions are actually made.
 
 My research program spans three connected areas:
 
@@ -22,11 +22,11 @@ My research program spans three connected areas:
 
 ### Where can changes to energy systems have the greatest impact on future climate risk?
 
-Energy infrastructure built today can shape emissions for decades. I study how power plants, investment, technology, and governance constrain the pace and cost of decarbonization.
+Energy infrastructure shapes emissions for decades. I study how power plants, investment, technology, and governance structures constrain the pace and cost of decarbonization.
 
-My work connects global climate targets to the physical infrastructure needed to achieve them, from the early retirement of fossil-fueled power plants and emissions committed by existing energy systems to the financial exposure created by stranded assets. I also examine who controls and benefits from energy transitions, including work on Tribal energy sovereignty.
+My work connects global climate targets to the physical infrastructure needed to achieve them, from the early retirement of fossil-fueled power plants and emissions committed by existing energy systems to the financial exposure created by stranded assets. I also examine who controls and benefits from the energy transition, including how demand for critical resources needed for this transition can create new opportunities and risks for ecosystems and communities where those resources are found.
 
-Going forward, I am integrating facility-level emissions, operations, ownership, and finance to identify **where retirement, retrofitting, clean-energy deployment, and capital reallocation can deliver the greatest reductions in climate risk while limiting economic and social costs**.
+My research also integrates facility-level emissions, operations, ownership, and finance to identify where changes in infrastructure and investment can deliver the greatest reductions in climate risk while limiting economic and social costs.
 
 *Selected work:* Fofrich et al., *Nature Sustainability* · Fofrich et al., *Environmental Research Letters* · Shearer et al., *AGU Advances* · Shearer et al., *Earth's Future* · Alotaiq et al., *Journal of Economy and Technology* · Seibel et al., *Science*
 
@@ -36,11 +36,11 @@ Going forward, I am integrating facility-level emissions, operations, ownership,
 
 ### Which climate solutions will actually work at scale?
 
-Avoiding more extreme climate change will require both rapid decarbonization and strategies for addressing residual emissions. But theoretical mitigation potential can look very different once climate, ecological, technological, economic, and institutional constraints are considered.
+Avoiding more extreme climate change will require both rapid decarbonization and strategies for addressing residual emissions. But theoretical mitigation potential can look very different once climate, ecological, technological, economic, and institutional constraints, as well as equity considerations, are taken into account.
 
 My research examines **where climate solutions are viable, how durable their benefits are, and what trade-offs emerge when they are deployed at scale**. My work on tropical bioenergy, for example, examines a fundamental tension in land-based mitigation: climate change can undermine the crops on which mitigation depends, while expanding cultivation into more favorable regions can threaten biodiversity and natural carbon storage.
 
-I am extending this framework across natural and engineered carbon removal, comparing strategies through their **durability, scalability, resource requirements, ecological consequences, and governance constraints**. The goal is not simply to estimate how much carbon could be removed, but to identify where removal can provide durable climate benefits without creating comparable damages elsewhere.
+I am extending this framework to natural and engineered climate solutions (e.g., carbon removal), comparing strategies based on their durability, scalability, resource requirements, ecological and social consequences, and governance constraints. The goal is not simply to estimate climate benefits, but to identify which pathways provide measurable and lasting benefits without creating comparable damages elsewhere.
 
 *Selected work:* Fofrich Navarro, Chiu & Ordway, *PNAS Nexus*
 
@@ -50,14 +50,14 @@ I am extending this framework across natural and engineered carbon removal, comp
 
 ### How can we trace climate damages back to human influence?
 
-Climate change is global, but its consequences occur in particular places, on particular days, and to particular populations. I develop approaches that bring climate-impact and attribution science to those scales.
+Climate change is global, but its consequences are experienced in particular places, on particular days, and by particular populations. I develop approaches that bring climate-impact and attribution science to those scales.
 
-My work examines how warming is pushing major agricultural systems beyond historically experienced conditions and how those risks are distributed across populations with very different capacities to adapt. I also developed **GDNat**, a global, daily, high-resolution counterfactual climate dataset designed to isolate anthropogenic warming while retaining the weather events that actually occurred.
+My work examines how warming is pushing major agricultural systems beyond historically experienced conditions and how those risks are distributed across populations with very different capacities to adapt. I also developed GDNat, a global, daily, high-resolution counterfactual climate dataset designed to isolate anthropogenic warming while retaining the weather events that actually occurred, enabling direct comparison of observed impacts with those that would have occurred without anthropogenic warming.
 
 I am now extending this work from **climate hazards to climate damages and responsibility**. One current project traces climate damages beyond the emitting facility to the financial institutions that enabled its construction, linking thousands of major carbon-emitting facilities to the lenders that financed them and apportioning emissions, and ultimately damages, across those institutions.
 
 More broadly, I am developing approaches that connect anthropogenic warming to economic, health, agricultural, and ecological impacts and trace those impacts back through emissions, infrastructure, firms, and financial institutions.
 
-The goal is to make attribution increasingly useful for decisions: **what damage was caused by anthropogenic climate change, who experienced it, which activities contributed to it, and where could intervention prevent the greatest future harm?**
+The goal is to make attribution increasingly useful for decision-making and accountability: what damage was caused by anthropogenic climate change, who experienced it, which activities and firms contributed to that warming, and where intervention could prevent the greatest future harm?
 
 *Selected work:* Fofrich Navarro et al., *Earth System Science Data* [submitted] · Fofrich Navarro et al., *Environmental Research Letters* [in revision]
