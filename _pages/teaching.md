@@ -40,17 +40,17 @@ My future teaching will connect the physical science of climate change with the 
 An interdisciplinary course connecting the physical climate system with impacts, adaptation, mitigation, and climate policy.
 
 **Energy Systems and Decarbonization**  
-A quantitative examination of global energy systems, infrastructure, technological change, emissions, and pathways toward deep decarbonization.
+A quantitative examination of global energy systems, including energy infrastructure, fossil fuel-derived products, technological change, emissions, and pathways toward deep decarbonization.
 
 **Climate Attribution and Risk**  
 A data-driven course on detecting and attributing climate change, extreme events, impacts, vulnerability, and emerging applications of attribution science.
 
 **Sustainable Land-Use, Carbon Removal and Climate Intervention**  
-A comparative examination of natural and engineered climate interventions, emphasizing biophysical constraints, durability, scalability, resource demands, and ecological trade-offs.
+A comparative examination of how global food systems have shaped the environment and how natural and engineered climate interventions can address climate change, emphasizing biophysical constraints, durability, scalability, resource demands, and ecological trade-offs.
 
-I am also prepared to teach courses in **Earth system science, sustainable food and water systems, GIS and geospatial analysis, natural climate solutions, and environmental data science**.
+I am also prepared to teach courses in **Earth system science, sustainable food and water systems, GIS and geospatial analysis, natural climate solutions, and introduction to environmental data science in Python**.
 
-Across these courses, I would have students work directly with climate and environmental datasets, conduct modeling and spatial analyses in Python or QGIS, critically evaluate the scientific literature, and communicate their reasoning to both technical and non-technical audiences.
+Across these courses, I would have students work directly with climate and environmental datasets, conduct modeling and spatial analyses, critically evaluate the scientific literature, and communicate their reasoning to both technical and non-technical audiences.
 
 ---
 
@@ -58,7 +58,7 @@ Across these courses, I would have students work directly with climate and envir
 
 I view mentoring as an essential part of scientific training. My goal is to help students and early-career researchers develop the **technical skills, confidence, independence, and professional judgment** needed to define their own paths.
 
-My approach evolves with career stage. With undergraduates, I emphasize turning curiosity into tractable research questions and building the foundations for independent research. With graduate students and junior researchers, I focus on scientific independence, professional identity, communication, and preparation for the next stage of their careers.
+My approach evolves with career stage. With undergraduates, I emphasize turning curiosity into tractable research questions and building the foundations for independent research. With graduate students and junior researchers, I focus on scientific independence, professional identity, communication, and career preparation.
 
 I also place particular value on making the parts of academic and scientific careers that are often learned informally more visible, including identifying research opportunities, navigating collaborations, building professional networks, communicating science, and evaluating academic and non-academic career paths.
 
