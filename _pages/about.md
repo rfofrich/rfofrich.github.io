@@ -18,7 +18,7 @@ profile:
 
 institution:
   name: Dartmouth College
-  url: https://www.dartmouth.edu
+  url: https://home.dartmouth.edu
   logo: D-Pine_RGB.png
   dark_logo: D-Pine_Black.png
   website: https://www.dartmouth.edu
@@ -45,7 +45,7 @@ latest_posts:
   limit: 3 # leave blank to include all blog posts
 ---
 
-I am a Postdoctoral Research Associate at [Dartmouth College](www.dartmouth.edu), where I work with [Justin Mankin](https://jsmankin.github.io/) in the Climate Modeling and Impacts Group. I study **how decisions about energy, infrastructure, land, and climate policy shape climate risk, and where strategic interventions can most effectively reduce it**.
+I am a Postdoctoral Research Associate at [Dartmouth College](https://home.dartmouth.edu), where I work with [Justin Mankin](https://jsmankin.github.io/) in the Climate Modeling and Impacts Group. I study **how decisions about energy, infrastructure, land, and climate policy shape climate risk, and where strategic interventions can most effectively reduce it**.
 
 My research spans **energy system decarbonization, climate intervention and carbon
 removal, and climate impacts and attribution**. My current work traces climate damages
@@ -55,7 +55,7 @@ economic, ecological, and geospatial data to connect global climate goals to the
 industries, institutions, landscapes, and populations where decisions are made. 
 
 I completed my Ph.D. in Earth System Science at the University of California, Irvine,
-with [Steven J. Davis](https://earth.stanford.edu/people/steven-davis). Before
+with [Steven J. Davis](https://sustainablesolutions.stanford.edu/people/steve-davis/). Before
 Dartmouth, I was a **UC President's Postdoctoral Fellow at UCLA** with
 [Elsa Ordway](https://sites.lifesci.ucla.edu/eeb-ordway/) and a postdoctoral
 researcher at Rutgers University with [Robert Kopp](https://www.bobkopp.net/) and
